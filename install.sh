@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+# !/usr/bin/env bash
 # install.sh
 # Script d'installation des thèmes btop depuis le dépôt local.
 # Usage:
@@ -35,30 +35,34 @@ fi
 # Création du dossier de destination
 mkdir -p "$DEST"
 
-# Copie du contenu de 'themes/' **dans** le dossier destination (sans créer un sous-dossier 'themes')
-# On préfère rsync si disponible car il est plus fiable pour la copie récursive et les attributs.
-if command -v rsync >/dev/null 2>&1; then
-  echo "Copie des thèmes avec rsync..."
-  rsync -a --delete "$SRC_DIR"/ "$DEST"/
+# Copier uniquement les fichiers se terminant par .theme (recherche récursive) et
+# déposer les fichiers directement dans le dossier destination (aplatissement).
+# Si aucun fichier .theme n'est trouvé, on le signale.
+FOUND=$(find "$SRC_DIR" -type f -name '*.theme' -print -quit || true)
+if [ -z "$FOUND" ]; then
+  echo "Aucun fichier .theme trouvé dans '$SRC_DIR'. Rien à copier."
 else
-  echo "Copie des thèmes avec cp -a..."
-  cp -a "$SRC_DIR"/. "$DEST"/
-fi
-
-# Suppression du README.md local (demande de l'utilisateur)
-if [ -f "$REPO_DIR/README.md" ]; then
-  echo "Suppression de README.md dans le dépôt local..."
-  rm -f "$REPO_DIR/README.md"
+  echo "Copie des fichiers '.theme' depuis '$SRC_DIR' vers '$DEST'..."
+  # Utilise cp -t pour copier plusieurs fichiers en une commande (GNU cp).
+  # On utilise -L pour suivre les liens symboliques si besoin.
+  find "$SRC_DIR" -type f -name '*.theme' -print0 | xargs -0 cp -t "$DEST" || {
+    # Fallback si cp -t indisponible : boucle simple
+    echo "Fallback: copie manuelle des fichiers"
+    while IFS= read -r -d '' file; do
+      cp "$file" "$DEST/"
+    done < <(find "$SRC_DIR" -type f -name '*.theme' -print0)
+  }
 fi
 
 # Résultat final
 echo
 echo "Installation terminée — thèmes installés dans : $DEST"
-ls -l "$DEST"
+ls -l "$DEST" || true
 
 echo
 echo "Remarques :"
-echo " - Si tu veux restaurer l'ancienne version des thèmes, regarde le dossier de sauvegarde si présent (suffixe .backup.TIMESTAMP)."
-echo " - Ce script doit être lancé depuis la racine du dépôt cloné (où se trouve le dossier 'themes')."
+echo " - Ce script copie uniquement les fichiers se terminant par .theme trouvés sous 'themes/'."
+echo " - Si une version précédente des thèmes existe, elle est déplacée en tant que sauvegarde (suffixe .backup.TIMESTAMP)."
+echo " - Lance ce script depuis la racine du dépôt cloné (là où se trouve le dossier 'themes')."
 
 exit 0
