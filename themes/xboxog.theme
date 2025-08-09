@@ -1,0 +1,85 @@
+# Xbox OG Theme - Vert néon Xbox original sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - vert Xbox clair
+theme[main_fg]="#9bc53d"
+
+# Title color for boxes - vert Xbox vif
+theme[title]="#7ed957"
+
+# Highlight color for keyboard shortcuts - vert néon
+theme[hi_fg]="#a8f387"
+
+# Background color of selected item - vert Xbox foncé
+theme[selected_bg]="#3a5e0b"
+
+# Foreground color of selected item - blanc éclatant
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text - vert grisé
+theme[inactive_fg]="#6a7a4d"
+
+# Color of text appearing on top of graphs - blanc éclatant
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters - noir avec teinte verte
+theme[meter_bg]="#0a0f05"
+
+# Misc colors for processes box - vert Xbox vif
+theme[proc_misc]="#7ed957"
+
+# Box outline colors - dégradé de vert Xbox
+#theme[cpu_box]="#3a5e0b"    # Vert foncé
+#theme[mem_box]="#7ed957"    # Vert Xbox
+#theme[net_box]="#9bc53d"    # Vert clair
+#theme[proc_box]="#a8f387"   # Vert néon
+
+# Box divider line - vert Xbox avec transparence
+theme[div_line]="#7ed95780"
+
+# Temperature graph color - dégradé de vert foncé à vert néon
+theme[temp_start]="#2a430b"
+theme[temp_mid]="#3a5e0b"
+theme[temp_end]="#7ed957"
+
+# CPU graph colors - dégradé de vert très foncé à vert Xbox
+theme[cpu_start]="#0a0f05"
+theme[cpu_mid]="#2a430b"
+theme[cpu_end]="#3a5e0b"
+
+# Mem/Disk free meter - dégradé de noir à vert foncé
+theme[free_start]="#050a02"
+theme[free_mid]="#0a0f05"
+theme[free_end]="#2a430b"
+
+# Mem/Disk cached meter - dégradé de vert Xbox à vert néon
+theme[cached_start]="#7ed957"
+theme[cached_mid]="#9bc53d"
+theme[cached_end]="#a8f387"
+
+# Mem/Disk available meter - dégradé de vert foncé à vert Xbox
+theme[available_start]="#0a0f05"
+theme[available_mid]="#2a430b"
+theme[available_end]="#3a5e0b"
+
+# Mem/Disk used meter - dégradé de vert Xbox à vert néon
+theme[used_start]="#3a5e0b"
+theme[used_mid]="#7ed957"
+theme[used_end]="#9bc53d"
+
+# Download graph colors - dégradé de vert très foncé à vert Xbox
+theme[download_start]="#0a0f05"
+theme[download_mid]="#2a430b"
+theme[download_end]="#3a5e0b"
+
+# Upload graph colors - dégradé de vert Xbox à vert néon
+theme[upload_start]="#3a5e0b"
+theme[upload_mid]="#7ed957"
+theme[upload_end]="#9bc53d"
+
+# Process box color gradient - dégradé de vert foncé à vert néon
+theme[process_start]="#2a430b"
+theme[process_mid]="#3a5e0b"
+theme[process_end]="#7ed957"

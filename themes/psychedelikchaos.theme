@@ -1,0 +1,85 @@
+# Psychedelic Chaos Theme - Couleurs aléatoires et décalées
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - rose fluo
+theme[main_fg]="#ff00ff"
+
+# Title color for boxes - vert fluo
+theme[title]="#00ff00"
+
+# Highlight color for keyboard shortcuts - jaune fluo
+theme[hi_fg]="#ffff00"
+
+# Background color of selected item - bleu électrique
+theme[selected_bg]="#0000ff"
+
+# Foreground color of selected item - blanc éclatant
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text - violet pâle
+theme[inactive_fg]="#c8a2c8"
+
+# Color of text appearing on top of graphs - blanc éclatant
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters - noir avec motifs psychédéliques
+theme[meter_bg]="#0a0a0a"
+
+# Misc colors for processes box - orange fluo
+theme[proc_misc]="#ff8800"
+
+# Box outline colors - arc-en-ciel
+#theme[cpu_box]="#ff0000"    # Rouge vif
+#theme[mem_box]="#00ff00"    # Vert fluo
+#theme[net_box]="#0000ff"    # Bleu vif
+#theme[proc_box]="#ff00ff"   # Magenta
+
+# Box divider line - cyan fluo avec transparence
+theme[div_line]="#00ffff80"
+
+# Temperature graph color - dégradé aléatoire
+theme[temp_start]="#ff0000"
+theme[temp_mid]="#00ff00"
+theme[temp_end]="#0000ff"
+
+# CPU graph colors - dégradé psychédélique
+theme[cpu_start]="#ff00ff"
+theme[cpu_mid]="#ffff00"
+theme[cpu_end]="#00ffff"
+
+# Mem/Disk free meter - couleurs vives aléatoires
+theme[free_start]="#ff0000"
+theme[free_mid]="#00ff00"
+theme[free_end]="#0000ff"
+
+# Mem/Disk cached meter - couleurs néon aléatoires
+theme[cached_start]="#ff00ff"
+theme[cached_mid]="#00ffff"
+theme[cached_end]="#ffff00"
+
+# Mem/Disk available meter - mélange de couleurs vives
+theme[available_start]="#ff8800"
+theme[available_mid]="#00ff88"
+theme[available_end]="#8800ff"
+
+# Mem/Disk used meter - arc-en-ciel inversé
+theme[used_start]="#ff0000"
+theme[used_mid]="#ff8800"
+theme[used_end]="#ffff00"
+
+# Download graph colors - couleurs flashy aléatoires
+theme[download_start]="#00ff00"
+theme[download_mid]="#00ffff"
+theme[download_end]="#0000ff"
+
+# Upload graph colors - couleurs vives contrastées
+theme[upload_start]="#ff00ff"
+theme[upload_mid]="#ff8800"
+theme[upload_end]="#00ff00"
+
+# Process box color gradient - explosion de couleurs
+theme[process_start]="#ff0000"
+theme[process_mid]="#00ff00"
+theme[process_end]="#0000ff"

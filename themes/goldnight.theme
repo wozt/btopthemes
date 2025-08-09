@@ -1,0 +1,85 @@
+# Golden Night Theme - Nuances d'or sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - or clair
+theme[main_fg]="#ffd700"
+
+# Title color for boxes - or vif
+theme[title]="#ffc125"
+
+# Highlight color for keyboard shortcuts - or brillant
+theme[hi_fg]="#ffdf00"
+
+# Background color of selected item - or très foncé
+theme[selected_bg]="#4d3d00"
+
+# Foreground color of selected item - or pâle
+theme[selected_fg]="#fff8dc"
+
+# Color of inactive/disabled text - or grisé
+theme[inactive_fg]="#8b7d6b"
+
+# Color of text appearing on top of graphs - blanc cassé
+theme[graph_text]="#fff8dc"
+
+# Background color of the percentage meters - noir avec teinte or
+theme[meter_bg]="#1a1500"
+
+# Misc colors for processes box - or vif
+theme[proc_misc]="#ffd700"
+
+# Box outline colors - dégradé d'or
+#theme[cpu_box]="#8b7500"    # Or foncé
+#theme[mem_box]="#b8860b"    # Or moyen
+#theme[net_box]="#d4af37"    # Métal or
+#theme[proc_box]="#ffd700"   # Or vif
+
+# Box divider line - or avec transparence
+theme[div_line]="#ffd70060"
+
+# Temperature graph color - dégradé de rouge à or
+theme[temp_start]="#8b0000"
+theme[temp_mid]="#d4a76a"
+theme[temp_end]="#ffd700"
+
+# CPU graph colors - dégradé d'or foncé à or vif
+theme[cpu_start]="#4d3d00"
+theme[cpu_mid]="#8b7500"
+theme[cpu_end]="#ffd700"
+
+# Mem/Disk free meter - dégradé d'or foncé à or clair
+theme[free_start]="#4d3d00"
+theme[free_mid]="#8b7500"
+theme[free_end]="#d4af37"
+
+# Mem/Disk cached meter - dégradé d'or à jaune clair
+theme[cached_start]="#b8860b"
+theme[cached_mid]="#d4af37"
+theme[cached_end]="#ffdf00"
+
+# Mem/Disk available meter - dégradé d'or foncé à or vif
+theme[available_start]="#4d3d00"
+theme[available_mid]="#8b7500"
+theme[available_end]="#ffd700"
+
+# Mem/Disk used meter - dégradé d'or à or brillant
+theme[used_start]="#8b7500"
+theme[used_mid]="#b8860b"
+theme[used_end]="#ffdf00"
+
+# Download graph colors - dégradé d'or foncé à or clair
+theme[download_start]="#4d3d00"
+theme[download_mid]="#8b7500"
+theme[download_end]="#d4af37"
+
+# Upload graph colors - dégradé d'or à or brillant
+theme[upload_start]="#8b7500"
+theme[upload_mid]="#b8860b"
+theme[upload_end]="#ffdf00"
+
+# Process box color gradient - dégradé d'or foncé à or vif
+theme[process_start]="#4d3d00"
+theme[process_mid]="#8b7500"
+theme[process_end]="#ffd700"

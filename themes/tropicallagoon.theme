@@ -1,0 +1,85 @@
+# Tropical Lagoon Theme - Bleu, vert et jaune sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - vert clair
+theme[main_fg]="#10b981"
+
+# Title color for boxes - vert vif
+theme[title]="#16a34a"
+
+# Highlight color for keyboard shortcuts - jaune vif
+theme[hi_fg]="#facc15"
+
+# Background color of selected item - bleu nuit
+theme[selected_bg]="#0f4c75"
+
+# Foreground color of selected item - blanc cassé
+theme[selected_fg]="#f0fdfa"
+
+# Color of inactive/disabled text - bleu-vert grisé
+theme[inactive_fg]="#4b7b7b"
+
+# Color of text appearing on top of graphs - blanc cassé
+theme[graph_text]="#f0fdfa"
+
+# Background color of the percentage meters - noir avec teinte bleu-verte
+theme[meter_bg]="#0a1e1e"
+
+# Misc colors for processes box - vert vif
+theme[proc_misc]="#16a34a"
+
+# Box outline colors - dégradé de vert à jaune
+#theme[cpu_box]="#16a34a"    # Vert forêt
+#theme[mem_box]="#10b981"    # Vert émeraude
+#theme[net_box]="#84cc16"    # Vert citron
+#theme[proc_box]="#facc15"   # Jaune vif
+
+# Box divider line - turquoise avec transparence
+theme[div_line]="#2dd4bf80"
+
+# Temperature graph color - dégradé de vert à jaune
+theme[temp_start]="#166534"
+theme[temp_mid]="#16a34a"
+theme[temp_end]="#facc15"
+
+# CPU graph colors - dégradé de vert foncé à vert vif
+theme[cpu_start]="#166534"
+theme[cpu_mid]="#16a34a"
+theme[cpu_end]="#84cc16"
+
+# Mem/Disk free meter - dégradé de vert foncé à vert clair
+theme[free_start]="#14532d"
+theme[free_mid]="#16a34a"
+theme[free_end]="#84cc16"
+
+# Mem/Disk cached meter - dégradé de vert à jaune
+theme[cached_start]="#10b981"
+theme[cached_mid]="#84cc16"
+theme[cached_end]="#facc15"
+
+# Mem/Disk available meter - dégradé de vert foncé à vert clair
+theme[available_start]="#14532d"
+theme[available_mid]="#16a34a"
+theme[available_end]="#84cc16"
+
+# Mem/Disk used meter - dégradé de vert à jaune
+theme[used_start]="#10b981"
+theme[used_mid]="#84cc16"
+theme[used_end]="#facc15"
+
+# Download graph colors - dégradé de vert foncé à vert clair
+theme[download_start]="#14532d"
+theme[download_mid]="#16a34a"
+theme[download_end]="#84cc16"
+
+# Upload graph colors - dégradé de vert à jaune
+theme[upload_start]="#10b981"
+theme[upload_mid]="#84cc16"
+theme[upload_end]="#facc15"
+
+# Process box color gradient - dégradé de vert à jaune
+theme[process_start]="#166534"
+theme[process_mid]="#84cc16"
+theme[process_end]="#facc15"

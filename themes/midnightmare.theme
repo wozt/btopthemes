@@ -1,0 +1,85 @@
+# Midnight Dream Theme - L'inversion sombre et mystérieuse de Pink Dream
+
+# Main background - violet foncé (inverse du rose pâle)
+theme[main_bg]="#1a0019"
+
+# Main text color - rose pâle (inverse du rose foncé)
+theme[main_fg]="#92d3b0"
+
+# Title color for boxes - bleu-vert (inverse du rose vif)
+theme[title]="#18ab7f"
+
+# Highlight color for keyboard shortcuts - vert bleuté (inverse du rose vif)
+theme[hi_fg]="47f095"
+
+# Background color of selected item - bleu nuit (inverse du rose clair)
+theme[selected_bg]="00472e"
+
+# Foreground color of selected item - rose pâle (inverse du rose foncé)
+theme[selected_fg]="#92e5c0"
+
+# Color of inactive/disabled text - bleu-gris (inverse du rose)
+theme[inactive_fg]="367053"
+
+# Color of text appearing on top of graphs - rose pâle (inverse du rose foncé)
+theme[graph_text]="#92d3b0"
+
+# Background color of the percentage meters - violet très foncé (inverse du rose clair)
+theme[meter_bg]="002e19"
+
+# Misc colors for processes box - bleu-vert (inverse du rose vif)
+theme[proc_misc]="18ab7f"
+
+# Box outline colors - inversés
+#theme[cpu_box]="194c19"    # Vert foncé (inverse du rose clair)
+#theme[mem_box]="197519"    # Vert (inverse du rose moyen)
+#theme[net_box]="009900"    # Vert vif (inverse du rose vif)
+#theme[proc_box]="00b200"   # Vert plus clair (inverse du rose plus clair)
+
+# Box divider line - vert bleuté (inverse du rose)
+theme[div_line]="265c3e80"
+
+# Temperature graph color - dégradé bleu-vert à bleu (inversé)
+theme[temp_start]="004c2e"
+theme[temp_mid]="00b247"
+theme[temp_end]="33ff99"
+
+# CPU graph colors - dégradé de vert à bleu-vert (inversé)
+theme[cpu_start]="00663d"
+theme[cpu_mid]="00b247"
+theme[cpu_end]="19ff8c"
+
+# Mem/Disk free meter - dégradé de bleu nuit (inversé du rose clair)
+theme[free_start]="002e19"
+theme[free_mid]="00663d"
+theme[free_end]="00b247"
+
+# Mem/Disk cached meter - dégradé de bleu-vert (inversé)
+theme[cached_start]="004c2e"
+theme[cached_mid]="007f4c"
+theme[cached_end]="00b247"
+
+# Mem/Disk available meter - dégradé de vert (inversé)
+theme[available_start]="00663d"
+theme[available_mid]="00b247"
+theme[available_end]="19ff8c"
+
+# Mem/Disk used meter - dégradé de bleu-vert à vert (inversé)
+theme[used_start]="004c2e"
+theme[used_mid]="00b247"
+theme[used_end]="33ff99"
+
+# Download graph colors - dégradé de vert (inversé)
+theme[download_start]="00663d"
+theme[download_mid]="00b247"
+theme[download_end]="19ff8c"
+
+# Upload graph colors - dégradé de bleu-vert (inversé)
+theme[upload_start]="004c2e"
+theme[upload_mid]="00b247"
+theme[upload_end]="33ff99"
+
+# Process box color gradient - dégradé de vert (inversé)
+theme[process_start]="00663d"
+theme[process_mid]="00b247"
+theme[process_end]="33ff99"

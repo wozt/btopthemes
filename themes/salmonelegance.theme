@@ -1,0 +1,85 @@
+# Salmon Elegance Theme - Nuances de saumon sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - saumon pâle
+theme[main_fg]="#ffb6a3"
+
+# Title color for boxes - saumon vif
+theme[title]="#ff8c69"
+
+# Highlight color for keyboard shortcuts - saumon doré
+theme[hi_fg]="#ff9e6b"
+
+# Background color of selected item - saumon foncé
+theme[selected_bg]="8b4c39"
+
+# Foreground color of selected item - blanc crème
+theme[selected_fg]="#fff5f2"
+
+# Color of inactive/disabled text - saumon grisé
+theme[inactive_fg]="#b38e82"
+
+# Color of text appearing on top of graphs - blanc crème
+theme[graph_text]="#fff5f2"
+
+# Background color of the percentage meters - noir avec teinte chaude
+theme[meter_bg]="#1a0f0a"
+
+# Misc colors for processes box - saumon doré
+theme[proc_misc]="#ff8c69"
+
+# Box outline colors - dégradé de saumon
+#theme[cpu_box]="#b35939"    # Saumon foncé
+#theme[mem_box]="#e67352"    # Saumon moyen
+#theme[net_box]="#ff8c69"    # Saumon vif
+#theme[proc_box]="#ffb6a3"   # Saumon pâle
+
+# Box divider line - saumon avec transparence
+theme[div_line]="#ff8c6980"
+
+# Temperature graph color - dégradé de saumon foncé à doré
+theme[temp_start]="#8c3c1a"
+theme[temp_mid]="#d45a2d"
+theme[temp_end]="#ff9e6b"
+
+# CPU graph colors - dégradé de brun-rouge à saumon
+theme[cpu_start]="#5c1f0a"
+theme[cpu_mid]="#8c3c1a"
+theme[cpu_end]="#d45a2d"
+
+# Mem/Disk free meter - dégradé de brun foncé à saumon foncé
+theme[free_start]="#2a140a"
+theme[free_mid]="#5c1f0a"
+theme[free_end]="#8c3c1a"
+
+# Mem/Disk cached meter - dégradé de saumon à saumon doré
+theme[cached_start]="#d45a2d"
+theme[cached_mid]="#ff8c69"
+theme[cached_end]="#ffb6a3"
+
+# Mem/Disk available meter - dégradé de brun-rouge à saumon
+theme[available_start]="#5c1f0a"
+theme[available_mid]="#8c3c1a"
+theme[available_end]="#d45a2d"
+
+# Mem/Disk used meter - dégradé de saumon à saumon pâle
+theme[used_start]="#d45a2d"
+theme[used_mid]="#ff8c69"
+theme[used_end]="#ffb6a3"
+
+# Download graph colors - dégradé de brun-rouge à saumon
+theme[download_start]="#5c1f0a"
+theme[download_mid]="#8c3c1a"
+theme[download_end]="#d45a2d"
+
+# Upload graph colors - dégradé de saumon à saumon doré
+theme[upload_start]="#d45a2d"
+theme[upload_mid]="#ff8c69"
+theme[upload_end]="#ffb6a3"
+
+# Process box color gradient - dégradé de saumon foncé à clair
+theme[process_start]="#8c3c1a"
+theme[process_mid]="#d45a2d"
+theme[process_end]="#ff8c69"

@@ -1,0 +1,85 @@
+# Zelda: Hyrule Theme - Émeraude, or et brun sur fond noir
+
+# Main background - noir profond (nuit d'Hyrule)
+theme[main_bg]="#000000"
+
+# Main text color - vert émeraude (forêt perdue)
+theme[main_fg]="#39b54a"
+
+# Title color for boxes - or de la Triforce
+theme[title]="#ffd700"
+
+# Highlight color for keyboard shortcuts - rubis (coeurs)
+theme[hi_fg]="#ff1a1a"
+
+# Background color of selected item - brun chaud (bois ancien)
+theme[selected_bg]="8b5a2b"
+
+# Foreground color of selected item - blanc éclatant
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text - vert émeraude atténué
+theme[inactive_fg]="#2e8b57"
+
+# Color of text appearing on top of graphs - noir profond
+theme[graph_text]="#000000"
+
+# Background color of the percentage meters - noir avec teinte verte
+theme[meter_bg]="#0a1a0a"
+
+# Misc colors for processes box - or de la Triforce
+theme[proc_misc]="#ffd700"
+
+# Box outline colors - thème Zelda
+#theme[cpu_box]="#39b54a"    # Vert émeraude
+#theme[mem_box]="#8b5a2b"    # Brun chaud
+#theme[net_box]="#ffd700"    # Or
+#theme[proc_box]="#2e8b57"   # Vert forêt
+
+# Box divider line - or avec transparence
+theme[div_line]="#ffd70080"
+
+# Temperature graph color - dégradé de bleu (glace)
+theme[temp_start]="#00bfff"
+theme[temp_mid]="#1e90ff"
+theme[temp_end]="#4169e1"
+
+# CPU graph colors - dégradé de marron (bois ancien)
+theme[cpu_start]="#5d4037"
+theme[cpu_mid]="#8d6e63"
+theme[cpu_end]="#a1887f"
+
+# Mem/Disk free meter - dégradé de brun (bois ancien)
+theme[free_start]="#2d1b0e"
+theme[free_mid]="#5d3a1a"
+theme[free_end]="#8b5a2b"
+
+# Mem/Disk cached meter - dégradé d'or (rubis)
+theme[cached_start]="#ffd700"
+theme[cached_mid]="#ffa500"
+theme[cached_end]="#ff4500"
+
+# Mem/Disk available meter - dégradé de vert forêt
+theme[available_start]="#0a2e0a"
+theme[available_mid]="#1b5e20"
+theme[available_end]="#2e8b57"
+
+# Mem/Disk used meter - dégradé de marron (bois usé)
+theme[used_start]="#5d4037"
+theme[used_mid]="#8d6e63"
+theme[used_end]="#bcaaa4"
+
+# Download graph colors - dégradé de vert (forêt)
+theme[download_start]="#0a2e0a"
+theme[download_mid]="#1b5e20"
+theme[download_end]="#2e8b57"
+
+# Upload graph colors - dégradé d'or (trésor)
+theme[upload_start]="#ffd700"
+theme[upload_mid]="#ffa500"
+theme[upload_end]="#ff8c00"
+
+# Process box color gradient - dégradé de marron (bois de chêne)
+theme[process_start]="#5d4037"
+theme[process_mid]="#8d6e63"
+theme[process_end]="#bcaaa4"

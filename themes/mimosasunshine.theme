@@ -1,0 +1,85 @@
+# Mimosa Sunshine Theme - Jaune éclatant sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - jaune mimosa clair
+theme[main_fg]="#f4d03f"
+
+# Title color for boxes - jaune or
+theme[title]="#f1c40f"
+
+# Highlight color for keyboard shortcuts - jaune vif
+theme[hi_fg]="#f7dc6f"
+
+# Background color of selected item - doré foncé
+theme[selected_bg]="8b6914"
+
+# Foreground color of selected item - noir profond
+theme[selected_fg]="#000000"
+
+# Color of inactive/disabled text - jaune grisé
+theme[inactive_fg]="#b3a36c"
+
+# Color of text appearing on top of graphs - noir profond
+theme[graph_text]="#000000"
+
+# Background color of the percentage meters - noir avec teinte dorée
+theme[meter_bg]="#1a1405"
+
+# Misc colors for processes box - jaune or
+theme[proc_misc]="#f1c40f"
+
+# Box outline colors - dégradé de jaune
+#theme[cpu_box]="#8b6914"    # Doré foncé
+#theme[mem_box]="#b7950b"    # Or
+#theme[net_box]="#f1c40f"    # Jaune or
+#theme[proc_box]="#f4d03f"   # Jaune mimosa
+
+# Box divider line - jaune or avec transparence
+theme[div_line]="#f1c40f80"
+
+# Temperature graph color - dégradé de doré à jaune vif
+theme[temp_start]="#8b6914"
+theme[temp_mid]="#b7950b"
+theme[temp_end]="#f4d03f"
+
+# CPU graph colors - dégradé de doré foncé à or
+theme[cpu_start]="#5e4a0d"
+theme[cpu_mid]="#8b6914"
+theme[cpu_end]="#b7950b"
+
+# Mem/Disk free meter - dégradé de noir à doré foncé
+theme[free_start]="#0a0802"
+theme[free_mid]="#5e4a0d"
+theme[free_end]="#8b6914"
+
+# Mem/Disk cached meter - dégradé d'or à jaune mimosa
+theme[cached_start]="#b7950b"
+theme[cached_mid]="#f1c40f"
+theme[cached_end]="#f4d03f"
+
+# Mem/Disk available meter - dégradé de doré foncé à or
+theme[available_start]="#5e4a0d"
+theme[available_mid]="#8b6914"
+theme[available_end]="#b7950b"
+
+# Mem/Disk used meter - dégradé d'or à jaune mimosa
+theme[used_start]="#b7950b"
+theme[used_mid]="#f1c40f"
+theme[used_end]="#f4d03f"
+
+# Download graph colors - dégradé de doré foncé à or
+theme[download_start]="#5e4a0d"
+theme[download_mid]="#8b6914"
+theme[download_end]="#b7950b"
+
+# Upload graph colors - dégradé d'or à jaune mimosa
+theme[upload_start]="#b7950b"
+theme[upload_mid]="#f1c40f"
+theme[upload_end]="#f4d03f"
+
+# Process box color gradient - dégradé de doré à jaune vif
+theme[process_start]="#8b6914"
+theme[process_mid]="#b7950b"
+theme[process_end]="#f4d03f"

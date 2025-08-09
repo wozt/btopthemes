@@ -1,0 +1,85 @@
+# Lavender Sunset Theme - Un paysage de fin d'été
+
+# Main background - bleu nuit profond
+theme[main_bg]="#0a0e1a"
+
+# Main text color - lavande pâle
+theme[main_fg]="#c5c8e6"
+
+# Title color for boxes - or pâle
+theme[title]="#e6c485"
+
+# Highlight color for keyboard shortcuts - pêche douce
+theme[hi_fg]="#e6a97e"
+
+# Background color of selected item - violet profond
+theme[selected_bg]="3d2b5a"
+
+# Foreground color of selected item - blanc crème
+theme[selected_fg]="#f5f0e6"
+
+# Color of inactive/disabled text - bleu lavande assombri
+theme[inactive_fg]="#7d7aa2"
+
+# Color of text appearing on top of graphs - blanc crème
+theme[graph_text]="#f5f0e6"
+
+# Background color of the percentage meters - bleu nuit profond
+theme[meter_bg]="#141a2e"
+
+# Misc colors for processes box - or pâle
+theme[proc_misc]="#e6c485"
+
+# Box outline colors - dégradé de couleurs du crépuscule
+#theme[cpu_box]="#3d2b5a"    # Violet profond
+#theme[mem_box]="#6a4b8b"    # Lavande foncée
+#theme[net_box]="#9d7fbf"    # Lavande claire
+#theme[proc_box]="#e6c485"   # Or pâle
+
+# Box divider line - lavande avec transparence
+theme[div_line]="#9d7fbf80"
+
+# Temperature graph color - dégradé de bleu nuit à or
+theme[temp_start]="#1e2b4a"
+theme[temp_mid]="#6a4b8b"
+theme[temp_end]="#e6a97e"
+
+# CPU graph colors - dégradé de bleu nuit à lavande
+theme[cpu_start]="#0a0e1a"
+theme[cpu_mid]="#3d2b5a"
+theme[cpu_end]="#9d7fbf"
+
+# Mem/Disk free meter - dégradé de bleu nuit à violet
+theme[free_start]="#0a0e1a"
+theme[free_mid]="#1e2b4a"
+theme[free_end]="#3d2b5a"
+
+# Mem/Disk cached meter - dégradé de lavande à pêche
+theme[cached_start]="#6a4b8b"
+theme[cached_mid]="#9d7fbf"
+theme[cached_end]="#e6a97e"
+
+# Mem/Disk available meter - dégradé de bleu nuit à lavande claire
+theme[available_start]="#0a0e1a"
+theme[available_mid]="#3d2b5a"
+theme[available_end]="#9d7fbf"
+
+# Mem/Disk used meter - dégradé de lavande à or
+theme[used_start]="#6a4b8b"
+theme[used_mid]="#b48ed4"
+theme[used_end]="#e6c485"
+
+# Download graph colors - dégradé de bleu nuit à lavande
+theme[download_start]="#0a0e1a"
+theme[download_mid]="#3d2b5a"
+theme[download_end]="#9d7fbf"
+
+# Upload graph colors - dégradé de lavande à pêche
+theme[upload_start]="#6a4b8b"
+theme[upload_mid]="#b48ed4"
+theme[upload_end]="#e6a97e"
+
+# Process box color gradient - dégradé de bleu nuit à or
+theme[process_start]="#1e2b4a"
+theme[process_mid]="#6a4b8b"
+theme[process_end]="#e6c485"

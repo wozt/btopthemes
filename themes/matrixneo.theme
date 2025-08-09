@@ -1,0 +1,85 @@
+# Matrix Neo Theme - Thème inspiré de Matrix sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - vert Matrix lumineux
+theme[main_fg]="#00ff41"
+
+# Title color for boxes - vert Matrix vif
+theme[title]="#00cc33"
+
+# Highlight color for keyboard shortcuts - vert plus clair
+theme[hi_fg]="#39ff14"
+
+# Background color of selected item - vert très foncé
+theme[selected_bg]="#003b00"
+
+# Foreground color of selected item - vert Matrix vif
+theme[selected_fg]="#00ff41"
+
+# Color of inactive/disabled text - vert foncé
+theme[inactive_fg]="#008f11"
+
+# Color of text appearing on top of graphs - vert Matrix
+theme[graph_text]="#00ff41"
+
+# Background color of the percentage meters - noir avec une teinte de vert
+theme[meter_bg]="#001a00"
+
+# Misc colors for processes box - vert Matrix
+theme[proc_misc]="#00cc33"
+
+# CPU, Memory, Network, Proc box outline colors - dégradé de verts
+#theme[cpu_box]="#007700"  # Vert foncé
+#theme[mem_box]="#00aa00"  # Vert moyen
+#theme[net_box]="#00cc33"  # Vert Matrix
+#theme[proc_box]="#00ff41"  # Vert néon
+
+# Box divider line - vert foncé
+theme[div_line]="#008f11"
+
+# Temperature graph color - dégradé de vert foncé à vert vif
+theme[temp_start]="#003300"
+theme[temp_mid]="#00aa00"
+theme[temp_end]="#00ff41"
+
+# CPU graph colors - dégradé de vert foncé à vert néon
+theme[cpu_start]="#003b00"
+theme[cpu_mid]="#00aa00"
+theme[cpu_end]="#00ff41"
+
+# Mem/Disk free meter - dégradé de vert foncé à vert clair
+theme[free_start]="#003300"
+theme[free_mid]="#007700"
+theme[free_end]="#00aa00"
+
+# Mem/Disk cached meter - dégradé de vert foncé à vert Matrix
+theme[cached_start]="#003300"
+theme[cached_mid]="#008f11"
+theme[cached_end]="#00cc33"
+
+# Mem/Disk available meter - dégradé de vert foncé à vert vif
+theme[available_start]="#003b00"
+theme[available_mid]="#00aa00"
+theme[available_end]="#39ff14"
+
+# Mem/Disk used meter - dégradé de vert foncé à vert néon
+theme[used_start]="#003b00"
+theme[used_mid]="#00cc33"
+theme[used_end]="#00ff41"
+
+# Download graph colors - dégradé de vert foncé à vert vif
+theme[download_start]="#003b00"
+theme[download_mid]="#008f11"
+theme[download_end]="#00ff41"
+
+# Upload graph colors - dégradé de vert foncé à vert Matrix
+theme[upload_start]="#003b00"
+theme[upload_mid]="#007700"
+theme[upload_end]="#00cc33"
+
+# Process box color gradient - dégradé de vert foncé à vert néon
+theme[process_start]="#003b00"
+theme[process_mid]="#008f11"
+theme[process_end]="#00ff41"

@@ -1,0 +1,85 @@
+# Sushi Delight Theme - Saumon, blanc et vert d'algue sur fond noir
+
+# Main background - noir profond (assiette noire)
+theme[main_bg]="#000000"
+
+# Main text color - blanc de riz
+theme[main_fg]="#f5f5f0"
+
+# Title color for boxes - saumon vif
+theme[title]="#ff7f50"
+
+# Highlight color for keyboard shortcuts - vert wasabi
+theme[hi_fg]="#7cba5f"
+
+# Background color of selected item - vert algue foncé
+theme[selected_bg]="#1a3b2e"
+
+# Foreground color of selected item - blanc de riz
+theme[selected_fg]="#f5f5f0"
+
+# Color of inactive/disabled text - gris de gingaille
+theme[inactive_fg]="#8c8c85"
+
+# Color of text appearing on top of graphs - blanc de riz
+theme[graph_text]="#f5f5f0"
+
+# Background color of the percentage meters - noir avec teinte verte
+theme[meter_bg]="#0a1410"
+
+# Misc colors for processes box - saumon
+theme[proc_misc]="#ff7f50"
+
+# Box outline colors - couleurs du sushi
+#theme[cpu_box]="#1a3b2e"    # Vert algue
+#theme[mem_box]="#f5f5f0"    # Blanc de riz
+#theme[net_box]="#ff7f50"    # Saumon
+#theme[proc_box]="#7cba5f"   # Vert wasabi
+
+# Box divider line - saumon avec transparence
+theme[div_line]="#ff7f5080"
+
+# Temperature graph color - dégradé de vert algue à saumon
+theme[temp_start]="#1a3b2e"
+theme[temp_mid]="#3d7b5c"
+theme[temp_end]="#ff7f50"
+
+# CPU graph colors - dégradé de vert foncé à vert wasabi
+theme[cpu_start]="#0a1410"
+theme[cpu_mid]="#1a3b2e"
+theme[cpu_end]="#3d7b5c"
+
+# Mem/Disk free meter - dégradé de vert très foncé à vert algue
+theme[free_start]="#05100b"
+theme[free_mid]="#0a1e16"
+theme[free_end]="#1a3b2e"
+
+# Mem/Disk cached meter - dégradé de saumon à blanc cassé
+theme[cached_start]="#ff7f50"
+theme[cached_mid]="#ffb59e"
+theme[cached_end]="#f5f5f0"
+
+# Mem/Disk available meter - dégradé de vert foncé à vert wasabi
+theme[available_start]="#0a1e16"
+theme[available_mid]="#1a3b2e"
+theme[available_end]="#3d7b5c"
+
+# Mem/Disk used meter - dégradé de saumon à saumon pâle
+theme[used_start]="#ff7f50"
+theme[used_mid]="#ff9e7d"
+theme[used_end]="#ffb59e"
+
+# Download graph colors - dégradé de vert foncé à vert wasabi
+theme[download_start]="#0a1e16"
+theme[download_mid]="#1a3b2e"
+theme[download_end]="#3d7b5c"
+
+# Upload graph colors - dégradé de saumon à blanc cassé
+theme[upload_start]="#ff7f50"
+theme[upload_mid]="#ffb59e"
+theme[upload_end]="#f5f5f0"
+
+# Process box color gradient - dégradé de vert algue à saumon
+theme[process_start]="#1a3b2e"
+theme[process_mid]="#5c8c6e"
+theme[process_end]="#ff7f50"

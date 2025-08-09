@@ -1,0 +1,85 @@
+# Wii Modern Theme - Thème bleu Wii sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - blanc cassé
+theme[main_fg]="#f0f0f0"
+
+# Title color for boxes - bleu Wii
+theme[title]="#0099cc"
+
+# Highlight color for keyboard shortcuts - bleu clair
+theme[hi_fg]="#5ac8fa"
+
+# Background color of selected item - bleu foncé
+theme[selected_bg]="#005a8c"
+
+# Foreground color of selected item - blanc pur
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text - gris-bleuté
+theme[inactive_fg]="#8a9ca8"
+
+# Color of text appearing on top of graphs - blanc pur
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters - noir avec teinte bleutée
+theme[meter_bg]="#0a1219"
+
+# Misc colors for processes box - bleu Wii
+theme[proc_misc]="#0099cc"
+
+# Box outline colors - couleurs Wii
+#theme[cpu_box]="#0078a8"    # Bleu foncé Wii
+#theme[mem_box]="#0099cc"    # Bleu Wii
+#theme[net_box]="#5ac8fa"    # Bleu clair
+#theme[proc_box]="#a0d8f0"   # Bleu très clair
+
+# Box divider line - bleu Wii avec transparence
+theme[div_line]="#0099cc80"
+
+# Temperature graph color - dégradé de bleu foncé à clair
+theme[temp_start]="#005a8c"
+theme[temp_mid]="#0099cc"
+theme[temp_end]="#5ac8fa"
+
+# CPU graph colors - dégradé de bleu très foncé à bleu Wii
+theme[cpu_start]="#002d44"
+theme[cpu_mid]="#005a8c"
+theme[cpu_end]="#0099cc"
+
+# Mem/Disk free meter - dégradé de noir à bleu foncé
+theme[free_start]="#050e14"
+theme[free_mid]="#0a1c28"
+theme[free_end]="#005a8c"
+
+# Mem/Disk cached meter - dégradé de bleu Wii à bleu clair
+theme[cached_start]="#0099cc"
+theme[cached_mid]="#5ac8fa"
+theme[cached_end]="#a0d8f0"
+
+# Mem/Disk available meter - dégradé de bleu foncé à bleu Wii
+theme[available_start]="#002d44"
+theme[available_mid]="#005a8c"
+theme[available_end]="#0099cc"
+
+# Mem/Disk used meter - dégradé de bleu Wii à bleu clair
+theme[used_start]="#0099cc"
+theme[used_mid]="#5ac8fa"
+theme[used_end]="#a0d8f0"
+
+# Download graph colors - dégradé de bleu très foncé à bleu Wii
+theme[download_start]="#002d44"
+theme[download_mid]="#005a8c"
+theme[download_end]="#0099cc"
+
+# Upload graph colors - dégradé de bleu Wii à bleu clair
+theme[upload_start]="#0099cc"
+theme[upload_mid]="#5ac8fa"
+theme[upload_end]="#a0d8f0"
+
+# Process box color gradient - dégradé de bleu foncé à clair
+theme[process_start]="#005a8c"
+theme[process_mid]="#0099cc"
+theme[process_end]="#5ac8fa"

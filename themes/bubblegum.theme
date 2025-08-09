@@ -1,0 +1,86 @@
+# Bubblegum Dream Theme - Rose bonbon sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - rose bonbon clair
+theme[main_fg]="#ff9ec6"
+
+# Title color for boxes - rose vif
+theme[title]="#ff69b4"
+
+# Highlight color for keyboard shortcuts - rose pétillant
+theme[hi_fg]="#ff4da6"
+
+# Background color of selected item - rose foncé
+theme[selected_bg]="#b52d7a"
+
+# Foreground color of selected item - blanc éclatant
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text - rose grisé
+theme[inactive_fg]="#b37b9d"
+
+# Color of text appearing on top of graphs - blanc éclatant
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters - noir avec teinte rosée
+theme[meter_bg]="#1a0a12"
+
+# Misc colors for processes box - rose pétillant
+theme[proc_misc]="#ff69b4"
+
+# Box outline colors - dégradé de roses
+#theme[cpu_box]="#ff1493"    # Rose profond
+#theme[mem_box]="#ff69b4"    # Rose bonbon
+#theme[net_box]="#ff9ec6"    # Rose clair
+#theme[proc_box]="#ffb6c1"   # Rose pâle
+
+# Box divider line - rose bonbon avec transparence
+theme[div_line]="#ff69b480"
+
+# Temperature graph color - dégradé de rose à rose pâle
+theme[temp_start]="#ff1493"
+theme[temp_mid]="#ff69b4"
+theme[temp_end]="#ffb6c1"
+
+# CPU graph colors - dégradé de rose foncé à rose vif
+theme[cpu_start]="#8b0a50"
+theme[cpu_mid]="#db1970"
+theme[cpu_end]="#ff69b4"
+
+# Mem/Disk free meter - dégradé de rose très foncé à rose moyen
+theme[free_start]="#4a0a2a"
+theme[free_mid]="#8b0a50"
+theme[free_end]="#db1970"
+
+# Mem/Disk cached meter - dégradé de rose à rose pâle
+theme[cached_start]="#ff69b4"
+theme[cached_mid]="#ff8fbf"
+theme[cached_end]="#ffb6c1"
+
+# Mem/Disk available meter - dégradé de rose foncé à rose vif
+theme[available_start]="#8b0a50"
+theme[available_mid]="#db1970"
+theme[available_end]="#ff69b4"
+
+# Mem/Disk used meter - dégradé de rose vif à rose pâle
+theme[used_start]="#ff1493"
+theme[used_mid]="#ff69b4"
+theme[used_end]="#ffb6c1"
+
+# Download graph colors - dégradé de rose foncé à rose vif
+theme[download_start]="#8b0a50"
+theme[download_mid]="#db1970"
+theme[download_end]="#ff69b4"
+
+# Upload graph colors - dégradé de rose vif à rose pâle
+theme[upload_start]="#ff1493"
+theme[upload_mid]="#ff69b4"
+theme[upload_end]="#ffb6c1"
+
+# Process box color gradient - dégradé de rose foncé à rose pâle
+theme[process_start]="#8b0a50"
+theme[process_mid]="#ff69b4"
+theme[process_end]="#ffb6c1"
+

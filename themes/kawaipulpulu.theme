@@ -1,0 +1,85 @@
+# Inverted Jungle Theme - L'inversion audacieuse de Jungle Clover
+
+# Main background - rose fuchsia profond (inverse du vert forêt)
+theme[main_bg]="#4b0082"
+
+# Main text color - rose pâle (inverse du vert clair)
+theme[main_fg]="#e6b8e6"
+
+# Title color for boxes - rose profond (inverse du vert olive clair)
+theme[title]="#c870c8"
+
+# Highlight color for keyboard shortcuts - vert vif (inverse du rose vif)
+theme[hi_fg]="#00964b"
+
+# Background color of selected item - rose foncé (inverse du vert olive foncé)
+theme[selected_bg]="aa4094"
+
+# Foreground color of selected item - noir profond (inverse du blanc cassé)
+theme[selected_fg]="#0f0f1f"
+
+# Color of inactive/disabled text - rose profond (inverse du vert olive)
+theme[inactive_fg]="#9471dc"
+
+# Color of text appearing on top of graphs - blanc cassé (inverse du noir profond)
+theme[graph_text]="#f5e5f5"
+
+# Background color of the percentage meters - rose foncé (inverse du vert forêt)
+theme[meter_bg]="#4b1a4b"
+
+# Misc colors for processes box - vert pâle (inverse du rose pâle)
+theme[proc_misc]="#00493e"
+
+# Box outline colors - inversés
+#theme[cpu_box]="#9471dc"    # Rose profond (inverse du vert olive)
+#theme[mem_box]="#704370"    # Rose foncé (inverse du vert olive clair)
+#theme[net_box]="#00964b"    # Vert vif (inverse du rose vif)
+#theme[proc_box]="#225f22"   # Vert forêt (inverse du prune)
+
+# Box divider line - vert avec transparence (inverse du rose)
+theme[div_line]="#00964b80"
+
+# Temperature graph color - dégradé vert olive à rose (inversé)
+theme[temp_start]="#6b8e23"
+theme[temp_mid]="#c71585"
+theme[temp_end]="#ff69b4"
+
+# CPU graph colors - dégradé vert olive à rose (inversé)
+theme[cpu_start]="#8fbc8f"
+theme[cpu_mid]="#db7093"
+theme[cpu_end]="#ff69b4"
+
+# Mem/Disk free meter - dégradé de rose clair (inversé du fuchsia foncé)
+theme[free_start]="#b47df7"
+theme[free_mid]="#74ff74"
+theme[free_end]="38eaea"
+
+# Mem/Disk cached meter - dégradé de vert olive à rose (inversé)
+theme[cached_start]="#8fbc8f"
+theme[cached_mid]="#db7093"
+theme[cached_end]="#ff69b4"
+
+# Mem/Disk available meter - dégradé de vert vif (inversé du fuchsia vif)
+theme[available_start]="#74ff74"
+theme[available_mid]="#38eaea"
+theme[available_end]="#74ebff"
+
+# Mem/Disk used meter - dégradé de vert olive à rose (inversé)
+theme[used_start]="#6b8e23"
+theme[used_mid]="#c71585"
+theme[used_end]="#ff69b4"
+
+# Download graph colors - dégradé de vert (inversé du rose)
+theme[download_start]="#38eaea"
+theme[download_mid]="#74ff74"
+theme[download_end]="#b47df7"
+
+# Upload graph colors - dégradé de vert pétant (inversé du fuchsia)
+theme[upload_start]="#74ff74"
+theme[upload_mid]="#38eaea"
+theme[upload_end]="#74ebff"
+
+# Process box color gradient - dégradé vert olive à rose (inversé)
+theme[process_start]="#8fbc8f"
+theme[process_mid]="#db7093"
+theme[process_end]="#ff69b4"

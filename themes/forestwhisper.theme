@@ -1,0 +1,85 @@
+# Forest Whisper Theme - Une forêt mystérieuse dans votre terminal
+
+# Main background - vert forêt extrêmement profond (40% plus foncé que l'original)
+theme[main_bg]="#020c02"
+
+# Main text color - vert pomme clair
+theme[main_fg]="#a8e6a8"
+
+# Title color for boxes - vert printanier
+theme[title]="#88cc88"
+
+# Highlight color for keyboard shortcuts - vert citron
+theme[hi_fg]="#c0ff33"
+
+# Background color of selected item - vert menthe foncé
+theme[selected_bg]="20b2aa"
+
+# Foreground color of selected item - blanc cassé
+theme[selected_fg]="#f0f0e0"
+
+# Color of inactive/disabled text - vert mousse
+theme[inactive_fg]="#6b8e23"
+
+# Color of text appearing on top of graphs - noir profond
+theme[graph_text]="#0a1a0a"
+
+# Background color of the percentage meters - vert forêt foncé (ajusté pour le nouveau fond)
+theme[meter_bg]="#0a1a0a"
+
+# Misc colors for processes box - vert printemps
+theme[proc_misc]="#88cc88"
+
+# Box outline colors - vert menthe
+#theme[cpu_box]="#3eb489"    # Vert menthe moyen
+#theme[mem_box]="#50c878"    # Vert menthe émeraude
+#theme[net_box]="#98ff98"    # Vert menthe clair
+#theme[proc_box]="#aaf0d1"   # Vert menthe pastel
+
+# Box divider line - vert pomme avec transparence
+theme[div_line]="#a8e6a840"
+
+# Temperature graph color - dégradé de vert kaki
+theme[temp_start]="#6b8e23"
+theme[temp_mid]="#7ca53f"
+theme[temp_end]="#8fbc5a"
+
+# CPU graph colors - dégradé de vert kaki
+theme[cpu_start]="#556b2f"
+theme[cpu_mid]="#6b8e23"
+theme[cpu_end]="#7ca53f"
+
+# Mem/Disk free meter - dégradé de vert forêt très foncé (ajusté)
+theme[free_start]="#051505"
+theme[free_mid]="#0a1a0a"
+theme[free_end]="#0f2a0f"
+
+# Mem/Disk cached meter - dégradé de vert mousse
+theme[cached_start]="#6b8e23"
+theme[cached_mid]="#7ca53f"
+theme[cached_end]="#8fbc5a"
+
+# Mem/Disk available meter - dégradé de vert printemps
+theme[available_start]="#4a7c2a"
+theme[available_mid]="#5a8c3a"
+theme[available_end]="#6b9c4a"
+
+# Mem/Disk used meter - dégradé de vert kaki
+theme[used_start]="#556b2f"
+theme[used_mid]="#6b8e23"
+theme[used_end]="#7ca53f"
+
+# Download graph colors - dégradé de vert forêt
+theme[download_start]="#1a3a1a"
+theme[download_mid]="#2a4a2a"
+theme[download_end]="#3a5a3a"
+
+# Upload graph colors - dégradé de vert printemps
+theme[upload_start]="#5a8c3a"
+theme[upload_mid]="#6b9c4a"
+theme[upload_end]="#7cac5a"
+
+# Process box color gradient - dégradé de vert kaki
+theme[process_start]="#556b2f"
+theme[process_mid]="#6b8e23"
+theme[process_end]="#7ca53f"

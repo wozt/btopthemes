@@ -1,0 +1,85 @@
+# Pokémon DP Legendary Theme - Bleu diamant et rose perle sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - bleu diamant clair
+theme[main_fg]="#a8d8f8"
+
+# Title color for boxes - rose perle plus vif
+theme[title]="#ffb6c1"
+
+# Highlight color for keyboard shortcuts - rose vif
+theme[hi_fg]="#ff69b4"
+
+# Background color of selected item - bleu diamant foncé
+theme[selected_bg]="3068b0"
+
+# Foreground color of selected item - blanc éclatant
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text - bleu grisé
+theme[inactive_fg]="#7a8ca8"
+
+# Color of text appearing on top of graphs - blanc éclatant
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters - noir avec teinte bleutée
+theme[meter_bg]="#0a0f1a"
+
+# Misc colors for processes box - rose perle
+theme[proc_misc]="#f0d8e8"
+
+# Box outline colors - thème Pokémon DP
+#theme[cpu_box]="#3068b0"    # Bleu diamant
+#theme[mem_box]="#a8d8f8"    # Bleu diamant clair
+#theme[net_box]="#f0d8e8"    # Rose perle pâle
+#theme[proc_box]="#f8f0f4"   # Rose perle très pâle
+
+# Box divider line - bleu diamant avec transparence
+theme[div_line]="#a8d8f880"
+
+# Temperature graph color - dégradé de bleu diamant à rose perle
+theme[temp_start]="#3068b0"
+theme[temp_mid]="#a8d8f8"
+theme[temp_end]="#f0d8e8"
+
+# CPU graph colors - dégradé de rose plus vif
+theme[cpu_start]="#ffb6c1"
+theme[cpu_mid]="#ff69b4"
+theme[cpu_end]="#ff1493"
+
+# Mem/Disk free meter - dégradé de rose clair à rose vif
+theme[free_start]="#ffd1dc"
+theme[free_mid]="#ffb6c1"
+theme[free_end]="#ff69b4"
+
+# Mem/Disk cached meter - dégradé de rose vif à rose profond
+theme[cached_start]="#ff69b4"
+theme[cached_mid]="#ff1493"
+theme[cached_end]="#c71585"
+
+# Mem/Disk available meter - dégradé de rose clair à rose vif
+theme[available_start]="#ffd1dc"
+theme[available_mid]="#ffb6c1"
+theme[available_end]="#ff69b4"
+
+# Mem/Disk used meter - dégradé de rose vif à rose profond
+theme[used_start]="#ff69b4"
+theme[used_mid]="#ff1493"
+theme[used_end]="#c71585"
+
+# Download graph colors - dégradé de rose clair à rose vif
+theme[download_start]="#ffd1dc"
+theme[download_mid]="#ffb6c1"
+theme[download_end]="#ff69b4"
+
+# Upload graph colors - dégradé de rose vif à rose profond
+theme[upload_start]="#ff69b4"
+theme[upload_mid]="#ff1493"
+theme[upload_end]="#c71585"
+
+# Process box color gradient - dégradé de rose vif
+#theme[process_start]="#ffd1dc"
+theme[process_mid]="#ffb6c1"
+theme[process_end]="#ff69b4"

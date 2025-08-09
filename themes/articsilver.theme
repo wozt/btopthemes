@@ -1,0 +1,85 @@
+# Arctic Silver Theme - Un thème polaire aux reflets argentés
+
+# Main background - bleu nuit profond (comme une nuit polaire)
+theme[main_bg]="#0a0e14"
+
+# Main text color - gris argenté clair (comme de la neige au clair de lune)
+theme[main_fg]="#e0e6f0"
+
+# Title color for boxes - bleu acier brillant (comme de la glace polaire au clair de lune)
+theme[title]="#a0b0c0"
+
+# Highlight color for keyboard shortcuts - bleu acier métallisé
+theme[hi_fg]="#4682b4"
+
+# Background color of selected item - bleu acier foncé (comme de l'ombre sur la glace)
+theme[selected_bg]="1a2028"
+
+# Foreground color of selected item - blanc cassé
+theme[selected_fg]="#f0f4f8"
+
+# Color of inactive/disabled text - gris bleuté (comme de la glace érodée)
+theme[inactive_fg]="5d6a7a"
+
+# Color of text appearing on top of graphs - blanc cassé
+theme[graph_text]="#f0f4f8"
+
+# Background color of the percentage meters - bleu nuit plus clair
+theme[meter_bg]="101820"
+
+# Misc colors for processes box - acier bleuté
+theme[proc_misc]="#b0c4de"
+
+# Box outline colors - tons de gris argenté sur fond sombre
+#theme[cpu_box]="#3a4555"    # Gris acier foncé (givre)
+#theme[mem_box]="#4a5566"    # Argenté (glace)
+#theme[net_box]="#5d6a7a"    # Gris bleuté (roches)
+#theme[proc_box]="#6a7a8a"   # Acier bleuté (ciel polaire)
+
+# Box divider line - gris argenté avec transparence (cristaux de glace)
+theme[div_line]="#d3d3d380"
+
+# Temperature graph color - dégradé de bleu nuit à gris argenté (froid polaire)
+theme[temp_start]="#0a0e14"
+theme[temp_mid]="#3a4555"
+theme[temp_end]="#a0b0c0"
+
+# CPU graph colors - dégradé de bleu nuit à gris argenté (métal gelé)
+theme[cpu_start]="#0a0e14"
+theme[cpu_mid]="#3a4555"
+theme[cpu_end]="#a0b0c0"
+
+# Mem/Disk free meter - dégradé de bleu nuit (ombre des montagnes)
+theme[free_start]="#0a0e14"
+theme[free_mid]="#101820"
+theme[free_end]="#1a2028"
+
+# Mem/Disk cached meter - dégradé de gris argenté (glace ancienne)
+theme[cached_start]="#3a4555"
+theme[cached_mid]="#5d6a7a"
+theme[cached_end]="#a0b0c0"
+
+# Mem/Disk available meter - dégradé de gris bleuté (ciel d'hiver)
+theme[available_start]="#1a2028"
+theme[available_mid]="#3a4555"
+theme[available_end]="#a0b0c0"
+
+# Mem/Disk used meter - dégradé de gris acier (roches gelées)
+theme[used_start]="#3a4555"
+theme[used_mid]="#5d6a7a"
+theme[used_end]="#a0b0c0"
+
+# Download graph colors - dégradé de gris clair (neige qui tombe)
+theme[download_start]="#0a0e14"
+theme[download_mid]="#3a4555"
+theme[download_end]="#a0b0c0"
+
+# Upload graph colors - dégradé de gris acier (tempête de neige)
+theme[upload_start]="#3a4555"
+theme[upload_mid]="#5d6a7a"
+theme[upload_end]="#a0b0c0"
+
+# Process box color gradient - dégradé de gris argenté
+theme[process_start]="#1a2028"
+theme[process_mid]="#3a4555"
+theme[process_end]="#a0b0c0"

@@ -1,0 +1,85 @@
+# Arctic Forest Theme - Une forêt enneigée sous la nuit polaire
+
+# Main background - bleu nuit profond (comme une forêt la nuit)
+theme[main_bg]="#0a141e"
+
+# Main text color - bleu glace pâle (comme de la neige au clair de lune)
+theme[main_fg]="#e0f0ff"
+
+# Title color for boxes - vert sapin givré
+theme[title]="#7eb6bd"
+
+# Highlight color for keyboard shortcuts - bleu électrique (comme un éclair dans la nuit polaire)
+theme[hi_fg]="#5fc7d7"
+
+# Background color of selected item - bleu acier foncé (comme l'ombre des arbres)
+theme[selected_bg]="1a2a3a"
+
+# Foreground color of selected item - blanc cassé
+theme[selected_fg]="#f0f8ff"
+
+# Color of inactive/disabled text - bleu grisé (comme de la glace érodée)
+theme[inactive_fg]="5d7a8c"
+
+# Color of text appearing on top of graphs - blanc cassé
+theme[graph_text]="#f0f8ff"
+
+# Background color of the percentage meters - bleu nuit plus clair
+theme[meter_bg]="0f1e2d"
+
+# Misc colors for processes box - vert sapin givré
+theme[proc_misc]="7eb6bd"
+
+# Box outline colors - tons de bleu forêt
+#theme[cpu_box]="2c4a5c"    # Bleu acier foncé (troncs d'arbres)
+#theme[mem_box]="3a6a7a"    # Bleu-vert (feuillage de conifères)
+#theme[net_box]="5fc7d7"    # Bleu électrique (lueur polaire)
+#theme[proc_box]="7eb6bd"   # Vert sapin givré
+
+# Box divider line - bleu acier avec transparence (cristaux de glace)
+theme[div_line]="5d7a8c80"
+
+# Temperature graph color - dégradé de bleu nuit à bleu électrique (froid polaire)
+theme[temp_start]="0a141e"
+theme[temp_mid]="2c4a5c"
+theme[temp_end]="5fc7d7"
+
+# CPU graph colors - dégradé de bleu forêt (sapins sous la neige)
+theme[cpu_start]="1a2a3a"
+theme[cpu_mid]="3a6a7a"
+theme[cpu_end]="7eb6bd"
+
+# Mem/Disk free meter - dégradé de bleu nuit (ombre des arbres)
+theme[free_start]="0a141e"
+theme[free_mid]="0f1e2d"
+theme[free_end]="1a2a3a"
+
+# Mem/Disk cached meter - dégradé de bleu acier (glace sur les branches)
+theme[cached_start]="2c4a5c"
+theme[cached_mid]="3a6a7a"
+theme[cached_end]="5d7a8c"
+
+# Mem/Disk available meter - dégradé de bleu-vert (forêt enneigée)
+theme[available_start]="1a2a3a"
+theme[available_mid]="3a6a7a"
+theme[available_end]="7eb6bd"
+
+# Mem/Disk used meter - dégradé de bleu électrique (aurores boréales)
+theme[used_start]="2c4a5c"
+theme[used_mid]="5fc7d7"
+theme[used_end]="a3e8f5"
+
+# Download graph colors - dégradé de bleu nuit (nuit polaire)
+theme[download_start]="0a141e"
+theme[download_mid]="2c4a5c"
+theme[download_end]="5d7a8c"
+
+# Upload graph colors - dégradé de bleu électrique (aurores boréales)
+theme[upload_start]="2c4a5c"
+theme[upload_mid]="5fc7d7"
+theme[upload_end]="a3e8f5"
+
+# Process box color gradient - dégradé de bleu forêt
+theme[process_start]="1a2a3a"
+theme[process_mid]="3a6a7a"
+theme[process_end]="7eb6bd"

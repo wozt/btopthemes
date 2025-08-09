@@ -1,0 +1,85 @@
+# Neon Dreams Theme - Rouge, violet et bleu sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - bleu clair
+theme[main_fg]="#4d9de0"
+
+# Title color for boxes - rouge vif
+theme[title]="#ff3366"
+
+# Highlight color for keyboard shortcuts - violet électrique
+theme[hi_fg]="#b14aed"
+
+# Background color of selected item - bleu nuit
+theme[selected_bg]="#1a1a4a"
+
+# Foreground color of selected item - blanc bleuté
+theme[selected_fg]="#e0e0ff"
+
+# Color of inactive/disabled text - bleu grisé
+theme[inactive_fg]="#5d6d8a"
+
+# Color of text appearing on top of graphs - blanc bleuté
+theme[graph_text]="#e0e0ff"
+
+# Background color of the percentage meters - noir avec teinte bleutrée
+theme[meter_bg]="#0a0a1a"
+
+# Misc colors for processes box - rose électrique
+theme[proc_misc]="#ff4da6"
+
+# Box outline colors - dégradé de rouge à bleu
+#theme[cpu_box]="#ff3366"    # Rouge vif
+#theme[mem_box]="#b14aed"    # Violet
+#theme[net_box]="#6a5acd"    # Bleu ardoise
+#theme[proc_box]="#4d9de0"   # Bleu clair
+
+# Box divider line - violet avec transparence
+theme[div_line]="#b14aed80"
+
+# Temperature graph color - dégradé de rouge à bleu
+theme[temp_start]="#ff3366"
+theme[temp_mid]="#b14aed"
+theme[temp_end]="#4d9de0"
+
+# CPU graph colors - dégradé de rouge à violet
+theme[cpu_start]="#cc0044"
+theme[cpu_mid]="#9933cc"
+theme[cpu_end]="#ff3366"
+
+# Mem/Disk free meter - dégradé de bleu foncé à bleu clair
+theme[free_start]="#000066"
+theme[free_mid]="#3333cc"
+theme[free_end]="#4d9de0"
+
+# Mem/Disk cached meter - dégradé de violet à rose
+theme[cached_start]="#6a0dad"
+theme[cached_mid]="#b14aed"
+theme[cached_end]="#ff4da6"
+
+# Mem/Disk available meter - dégradé de bleu nuit à bleu vif
+theme[available_start]="#000033"
+theme[available_mid]="#1a1a66"
+theme[available_end]="#4d4dff"
+
+# Mem/Disk used meter - dégradé de rouge à violet
+theme[used_start]="#cc0044"
+theme[used_mid]="#9933cc"
+theme[used_end]="#b14aed"
+
+# Download graph colors - dégradé de bleu foncé à bleu clair
+theme[download_start]="#000066"
+theme[download_mid]="#3333cc"
+theme[download_end]="#4d9de0"
+
+# Upload graph colors - dégradé de violet à rose
+theme[upload_start]="#6a0dad"
+theme[upload_mid]="#b14aed"
+theme[upload_end]="#ff4da6"
+
+# Process box color gradient - dégradé de rouge à bleu
+theme[process_start]="#cc0044"
+theme[process_mid]="#b14aed"
+theme[process_end]="#4d9de0"

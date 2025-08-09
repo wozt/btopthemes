@@ -1,0 +1,85 @@
+# Green Splash Theme - Fond vert pomme éclatant avec contraste
+
+# Main background - vert pomme éclatant
+theme[main_bg]="#c1f0c1"
+
+# Main text color - vert très foncé amélioré
+theme[main_fg]="#051f05"
+
+# Title color for boxes - vert plus foncé
+theme[title]="#0d4a0d"
+
+# Highlight color for keyboard shortcuts - vert plus foncé
+theme[hi_fg]="#0a3a0a"
+
+# Background color of selected item - vert clair
+theme[selected_bg]="#a0e0a0"
+
+# Foreground color of selected item - vert très foncé amélioré
+theme[selected_fg]="#051f05"
+
+# Color of inactive/disabled text - vert plus foncé
+theme[inactive_fg]="#2d7a2d"
+
+# Color of text appearing on top of graphs
+theme[graph_text]="#051f05"
+
+# Background color of the percentage meters - vert clair
+theme[meter_bg]="#b0e8b0"
+
+# Misc colors for processes box - vert plus vif
+theme[proc_misc]="#0d4a0d"
+
+# CPU, Memory, Network, Proc box outline colors - verts plus vifs
+theme[cpu_box]="#1e8a1e"
+theme[mem_box]="#5d9e0d"
+theme[net_box]="#3d8b3d"
+theme[proc_box]="#4caf50"
+
+# Box divider line - vert clair
+theme[div_line]="#90ee90"
+
+# Temperature graph color - dégradé de vert clair à vert vif
+theme[temp_start]="#e8f5e9"
+theme[temp_mid]="#8bc34a"
+theme[temp_end]="#1e8a1e"
+
+# CPU graph colors - dégradé de vert plus contrasté
+theme[cpu_start]="#0a3a0a"
+theme[cpu_mid]="#1e8a1e"
+theme[cpu_end]="#8bc34a"
+
+# Mem/Disk free meter - dégradé de vert clair à moyen
+theme[free_start]="#e8f5e9"
+theme[free_mid]="#8bc34a"
+theme[free_end]="#4caf50"
+
+# Mem/Disk cached meter - dégradé de vert clair à vif
+theme[cached_start]="#e8f5e9"
+theme[cached_mid]="#8bc34a"
+theme[cached_end]="#1e8a1e"
+
+# Mem/Disk available meter - dégradé de vert clair à foncé
+theme[available_start]="#e8f5e9"
+theme[available_mid]="#8bc34a"
+theme[available_end]="#0f5c0f"
+
+# Mem/Disk used meter - dégradé de vert clair à vif
+theme[used_start]="#e8f5e9"
+theme[used_mid]="#8bc34a"
+theme[used_end]="#1e8a1e"
+
+# Download graph colors - dégradé de vert clair à moyen
+theme[download_start]="#e8f5e9"
+theme[download_mid]="#8bc34a"
+theme[download_end]="#0f5c0f"
+
+# Upload graph colors - dégradé de vert clair à vif
+theme[upload_start]="#e8f5e9"
+theme[upload_mid]="#8bc34a"
+theme[upload_end]="#1e8a1e"
+
+# Process box color gradient - dégradé de vert foncé à vert clair proche du fond
+theme[process_start]="#0a3a0a"
+theme[process_mid]="#5d9e0d"
+theme[process_end]="#b0e8b0"

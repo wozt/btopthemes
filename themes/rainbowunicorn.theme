@@ -1,0 +1,86 @@
+# Rainbow Unicorn Theme - Un thème arc-en-ciel joyeux et coloré
+
+# Main background - noir pour faire ressortir les couleurs
+#theme[main_bg]="#000000"  # Décommenter pour fond noir
+#theme[main_bg]="#ffffff"  # Décommenter pour fond blanc
+
+# Main text color - violet pour le texte principal
+theme[main_fg]="#8a2be2"
+
+# Title color for boxes - bleu vif
+theme[title]="#1e90ff"
+
+# Highlight color for keyboard shortcuts - rose vif
+theme[hi_fg]="#ff1493"
+
+# Background color of selected item - jaune pâle
+theme[selected_bg]="#fffacd"
+
+# Foreground color of selected item - violet foncé
+theme[selected_fg]="#4b0082"
+
+# Color of inactive/disabled text - gris bleuté
+theme[inactive_fg]="#778899"
+
+# Color of text appearing on top of graphs - blanc
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters - gris très clair
+theme[meter_bg]="#f0f0f0"
+
+# Misc colors for processes box - orange vif
+theme[proc_misc]="#ff8c00"
+
+# Box outline colors - arc-en-ciel
+#theme[cpu_box]="#ff0000"    # Rouge
+#theme[mem_box]="#ff8c00"    # Orange
+#theme[net_box]="#ffd700"    # Or
+#theme[proc_box]="#32cd32"   # Vert citron
+
+# Box divider line - bleu ciel
+theme[div_line]="#87ceeb"
+
+# Temperature graph color - dégradé rouge à jaune
+theme[temp_start]="#ff0000"
+theme[temp_mid]="#ff8c00"
+theme[temp_end]="#ffd700"
+
+# CPU graph colors - dégradé bleu à violet
+theme[cpu_start]="#1e90ff"
+theme[cpu_mid]="#9370db"
+theme[cpu_end]="#8a2be2"
+
+# Mem/Disk free meter - dégradé vert clair à vert foncé
+theme[free_start]="#98fb98"
+theme[free_mid]="#32cd32"
+theme[free_end]="#006400"
+
+# Mem/Disk cached meter - dégradé jaune à orange
+theme[cached_start]="#ffff00"
+theme[cached_mid]="#ffd700"
+theme[cached_end]="#ff8c00"
+
+# Mem/Disk available meter - dégradé bleu clair à bleu foncé
+theme[available_start]="#87ceeb"
+theme[available_mid]="#1e90ff"
+theme[available_end]="#0000cd"
+
+# Mem/Disk used meter - dégradé rose à rouge
+theme[used_start]="#ffb6c1"
+theme[used_mid]="#ff69b4"
+theme[used_end]="#ff0000"
+
+# Download graph colors - dégradé vert à bleu
+theme[download_start]="#32cd32"
+theme[download_mid]="#00bfff"
+theme[download_end]="#0000ff"
+
+# Upload graph colors - dégradé rose à violet
+theme[upload_start]="#ff69b4"
+theme[upload_mid]="#ba55d3"
+theme[upload_end]="#8a2be2"
+
+# Process box color gradient - dégradé arc-en-ciel
+theme[process_start]="#ff0000"
+theme[process_mid]="#00ff00"
+theme[process_end]="#0000ff"

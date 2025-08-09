@@ -1,0 +1,85 @@
+# Ruby & Sapphire Gemstone Theme - Rouge rubis et bleu saphir sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - bleu saphir clair
+theme[main_fg]="#4169e1"
+
+# Title color for boxes - rouge rubis
+theme[title]="#e0115f"
+
+# Highlight color for keyboard shortcuts - saphir brillant
+theme[hi_fg]="#4b7bff"
+
+# Background color of selected item - rubis foncé
+theme[selected_bg]="9b111e"
+
+# Foreground color of selected item - blanc éclatant
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text - bleu grisé
+theme[inactive_fg]="#6a7a9c"
+
+# Color of text appearing on top of graphs - blanc éclatant
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters - noir avec teinte bleutée
+theme[meter_bg]="#0a0a1a"
+
+# Misc colors for processes box - rubis
+theme[proc_misc]="#e0115f"
+
+# Box outline colors - rubis et saphir
+#theme[cpu_box]="#9b111e"    # Rubis foncé
+#theme[mem_box]="#e0115f"    # Rubis
+#theme[net_box]="#4169e1"    # Saphir
+#theme[proc_box]="#4b7bff"   # Saphir brillant
+
+# Box divider line - rubis avec transparence
+theme[div_line]="#e0115f80"
+
+# Temperature graph color - dégradé de rubis à saphir
+theme[temp_start]="#9b111e"
+theme[temp_mid]="#e0115f"
+theme[temp_end]="#4169e1"
+
+# CPU graph colors - dégradé de rubis foncé à rubis
+theme[cpu_start]="#4a0a14"
+theme[cpu_mid]="#9b111e"
+theme[cpu_end]="#e0115f"
+
+# Mem/Disk free meter - dégradé de noir à rubis foncé
+theme[free_start]="#0a0205"
+theme[free_mid]="#4a0a14"
+theme[free_end]="#9b111e"
+
+# Mem/Disk cached meter - dégradé de saphir à saphir clair
+theme[cached_start]="#1e3b8b"
+theme[cached_mid]="#4169e1"
+theme[cached_end]="#4b7bff"
+
+# Mem/Disk available meter - dégradé de saphir foncé à saphir
+theme[available_start]="#0a1432"
+theme[available_mid]="#1e3b8b"
+theme[available_end]="#4169e1"
+
+# Mem/Disk used meter - dégradé de rubis à saphir
+theme[used_start]="#e0115f"
+theme[used_mid]="#a020f0"
+theme[used_end]="#4169e1"
+
+# Download graph colors - dégradé de rubis foncé à rubis
+theme[download_start]="#4a0a14"
+theme[download_mid]="#9b111e"
+theme[download_end]="#e0115f"
+
+# Upload graph colors - dégradé de saphir à saphir clair
+theme[upload_start]="#1e3b8b"
+theme[upload_mid]="#4169e1"
+theme[upload_end]="#4b7bff"
+
+# Process box color gradient - dégradé de rubis à saphir
+theme[process_start]="#9b111e"
+theme[process_mid]="#e0115f"
+theme[process_end]="#4169e1"

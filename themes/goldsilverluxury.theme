@@ -1,0 +1,85 @@
+# Gold & Silver Luxury Theme - Or et argent sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - argent clair
+theme[main_fg]="#e0e0e0"
+
+# Title color for boxes - or
+theme[title]="#ffd700"
+
+# Highlight color for keyboard shortcuts - argent brillant
+theme[hi_fg]="#ffffff"
+
+# Background color of selected item - or foncé
+theme[selected_bg]="b8860b"
+
+# Foreground color of selected item - noir profond
+theme[selected_fg]="#000000"
+
+# Color of inactive/disabled text - gris argenté
+theme[inactive_fg]="#a0a0a0"
+
+# Color of text appearing on top of graphs - noir profond
+theme[graph_text]="#000000"
+
+# Background color of the percentage meters - noir avec teinte dorée
+theme[meter_bg]="#1a170a"
+
+# Misc colors for processes box - or
+theme[proc_misc]="#ffd700"
+
+# Box outline colors - or et argent
+#theme[cpu_box]="#b8860b"    # Or foncé
+#theme[mem_box]="#c0c0c0"    # Argent
+#theme[net_box]="#ffd700"    # Or
+#theme[proc_box]="#e5e4e2"   # Argent brillant
+
+# Box divider line - or avec transparence
+theme[div_line]="#ffd70080"
+
+# Temperature graph color - dégradé d'or à argent
+theme[temp_start]="#b8860b"
+theme[temp_mid]="#d4af37"
+theme[temp_end]="#e5e4e2"
+
+# CPU graph colors - dégradé d'or foncé à or
+theme[cpu_start]="#8b6914"
+theme[cpu_mid]="#b8860b"
+theme[cpu_end]="#d4af37"
+
+# Mem/Disk free meter - dégradé de noir à or foncé
+theme[free_start]="#0a0802"
+theme[free_mid]="#4a3a0a"
+theme[free_end]="#8b6914"
+
+# Mem/Disk cached meter - dégradé d'argent à argent brillant
+theme[cached_start]="#c0c0c0"
+theme[cached_mid]="#d3d3d3"
+theme[cached_end]="#e5e4e2"
+
+# Mem/Disk available meter - dégradé d'or foncé à or
+theme[available_start]="#8b6914"
+theme[available_mid]="#b8860b"
+theme[available_end]="#d4af37"
+
+# Mem/Disk used meter - dégradé d'or à argent
+theme[used_start]="#d4af37"
+theme[used_mid]="#e5e4b0"
+theme[used_end]="#e5e4e2"
+
+# Download graph colors - dégradé d'or foncé à or
+theme[download_start]="#8b6914"
+theme[download_mid]="#b8860b"
+theme[download_end]="#d4af37"
+
+# Upload graph colors - dégradé d'argent à argent brillant
+theme[upload_start]="#c0c0c0"
+theme[upload_mid]="#d3d3d3"
+theme[upload_end]="#e5e4e2"
+
+# Process box color gradient - dégradé d'or à argent
+theme[process_start]="#b8860b"
+theme[process_mid]="#d4af37"
+theme[process_end]="#e5e4e2"

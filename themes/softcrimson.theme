@@ -1,0 +1,86 @@
+# Soft Crimson Theme - Nuances de rouge clair sur fond noir
+# Inspiré de redblood.theme
+
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#ffdddd"
+
+# Title color for boxes
+theme[title]="#ff8888"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#ff7777"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#662222"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ff9999"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#442222"
+
+# Color of text appearing on top of graphs
+theme[graph_text]="#ffbbbb"
+
+# Background color of the percentage meters
+theme[meter_bg]="#221111"
+
+# Misc colors for processes box
+theme[proc_misc]="#ffaaaa"
+
+# CPU, Memory, Network, Proc box outline colors
+theme[cpu_box]="#aa4444"
+theme[mem_box]="#cc6666"
+theme[net_box]="#ee8888"
+theme[proc_box]="#dd7777"
+
+# Box divider line and small boxes line color
+theme[div_line]="#442222"
+
+# Temperature graph color
+theme[temp_start]="#662222"
+theme[temp_mid]="#aa4444"
+theme[temp_end]="#ff6666"
+
+# CPU graph colors
+theme[cpu_start]="#773333"
+theme[cpu_mid]="#aa5555"
+theme[cpu_end]="#ff8888"
+
+# Mem/Disk free meter
+theme[free_start]="#442222"
+theme[free_mid]="#884444"
+theme[free_end]="#cc6666"
+
+# Mem/Disk cached meter
+theme[cached_start]="#552222"
+theme[cached_mid]="#995555"
+theme[cached_end]="#dd7777"
+
+# Mem/Disk available meter
+theme[available_start]="#884444"
+theme[available_mid]="#bb6666"
+theme[available_end]="#ff8888"
+
+# Mem/Disk used meter
+theme[used_start]="#773333"
+theme[used_mid]="#aa5555"
+theme[used_end]="#dd7777"
+
+# Download graph colors
+theme[download_start]="#884444"
+theme[download_mid]="#bb6666"
+theme[download_end]="#ff8888"
+
+# Upload graph colors
+theme[upload_start]="#773333"
+theme[upload_mid]="#aa5555"
+theme[upload_end]="#dd7777"
+
+# Process box color gradient
+theme[process_start]="#773333"
+theme[process_mid]="#aa5555"
+theme[process_end]="#ee8888"

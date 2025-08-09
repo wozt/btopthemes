@@ -1,0 +1,85 @@
+# Steam Classic Theme - Vert kaki rétro sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - vert kaki clair
+theme[main_fg]="#b8bc86"
+
+# Title color for boxes - vert Steam classique
+theme[title]="#5c7e10"
+
+# Highlight color for keyboard shortcuts - vert mousse clair
+theme[hi_fg]="#8f9a4a"
+
+# Background color of selected item - vert kaki foncé
+theme[selected_bg]="#2a3410"
+
+# Foreground color of selected item - blanc cassé
+theme[selected_fg]="#e0e0d1"
+
+# Color of inactive/disabled text - vert kaki grisé
+theme[inactive_fg]="#5a5e4a"
+
+# Color of text appearing on top of graphs - blanc cassé
+theme[graph_text]="#e0e0d1"
+
+# Background color of the percentage meters - noir avec teinte verte
+theme[meter_bg]="#0a0e06"
+
+# Misc colors for processes box - vert mousse
+theme[proc_misc]="#8f9a4a"
+
+# Box outline colors - dégradé de vert kaki
+#theme[cpu_box]="#3a4a0a"    # Vert kaki foncé
+#theme[mem_box]="#5c7e10"    # Vert Steam classique
+#theme[net_box]="#8f9a4a"    # Vert mousse
+#theme[proc_box]="#b8bc86"   # Vert kaki clair
+
+# Box divider line - vert kaki avec transparence
+theme[div_line]="#5c7e1080"
+
+# Temperature graph color - dégradé de vert foncé à mousse
+theme[temp_start]="#2a3410"
+theme[temp_mid]="#5c7e10"
+theme[temp_end]="#8f9a4a"
+
+# CPU graph colors - dégradé de vert kaki foncé à clair
+theme[cpu_start]="#2a3410"
+theme[cpu_mid]="#3a4a0a"
+theme[cpu_end]="#5c7e10"
+
+# Mem/Disk free meter - dégradé de vert très foncé à kaki
+theme[free_start]="#0a0e06"
+theme[free_mid]="#2a3410"
+theme[free_end]="#3a4a0a"
+
+# Mem/Disk cached meter - dégradé de vert kaki à mousse
+theme[cached_start]="#5c7e10"
+theme[cached_mid]="#8f9a4a"
+theme[cached_end]="#b8bc86"
+
+# Mem/Disk available meter - dégradé de vert foncé à vert Steam
+theme[available_start]="#0a0e06"
+theme[available_mid]="#2a3410"
+theme[available_end]="#5c7e10"
+
+# Mem/Disk used meter - dégradé de vert kaki à mousse claire
+theme[used_start]="#5c7e10"
+theme[used_mid]="#8f9a4a"
+theme[used_end]="#b8bc86"
+
+# Download graph colors - dégradé de vert foncé à vert Steam
+theme[download_start]="#0a0e06"
+theme[download_mid]="#2a3410"
+theme[download_end]="#5c7e10"
+
+# Upload graph colors - dégradé de vert kaki à mousse
+theme[upload_start]="#5c7e10"
+theme[upload_mid]="#8f9a4a"
+theme[upload_end]="#b8bc86"
+
+# Process box color gradient - dégradé de vert kaki foncé à clair
+theme[process_start]="#2a3410"
+theme[process_mid]="#5c7e10"
+theme[process_end]="#8f9a4a"

@@ -1,0 +1,85 @@
+# Palm Beach Theme - Un thème tropical avec vert palmier, jaune sable et bleu ciel
+
+# Main background - noir profond (comme la nuit tropicale)
+theme[main_bg]="#0a0a0a"
+
+# Main text color - jaune sable clair (comme le sable au clair de lune)
+theme[main_fg]="#f5deb3"
+
+# Title color for boxes - vert palmier vif
+theme[title]="#7bbf6a"
+
+# Highlight color for keyboard shortcuts - bleu ciel électrique
+theme[hi_fg]="#4da6ff"
+
+# Background color of selected item - bleu nuit (comme l'océan la nuit)
+theme[selected_bg]="0a1a2a"
+
+# Foreground color of selected item - jaune sable clair
+theme[selected_fg]="#f5deb3"
+
+# Color of inactive/disabled text - vert palmier atténué
+theme[inactive_fg]="5a8a4f"
+
+# Color of text appearing on top of graphs - jaune sable clair
+theme[graph_text]="#f5deb3"
+
+# Background color of the percentage meters - noir légèrement plus clair
+theme[meter_bg]="151515"
+
+# Misc colors for processes box - vert palmier
+theme[proc_misc]="7bbf6a"
+
+# Box outline colors - tons tropicaux
+#theme[cpu_box]="2a3a1a"    # Vert palmier foncé
+#theme[mem_box]="4a5a2a"    # Vert palmier moyen
+#theme[net_box]="4da6ff"    # Bleu ciel
+#theme[proc_box]="7bbf6a"   # Vert palmier vif
+
+# Box divider line - jaune sable avec transparence (comme un trait de sable)
+theme[div_line]="f5deb380"
+
+# Temperature graph color - dégradé de bleu (océan tropical)
+theme[temp_start]="0a1a2a"
+theme[temp_mid]="1a4a7a"
+theme[temp_end]="4da6ff"
+
+# CPU graph colors - dégradé de vert palmier (feuilles de palmier)
+theme[cpu_start]="1a3a1a"
+theme[cpu_mid]="3a7a3a"
+theme[cpu_end]="7bbf6a"
+
+# Mem/Disk free meter - dégradé de sable (plage)
+theme[free_start]="1a140a"
+theme[free_mid]="4a3a1a"
+theme[free_end]="8a7a4a"
+
+# Mem/Disk cached meter - dégradé de vert palmier (feuillage)
+theme[cached_start]="1a3a1a"
+theme[cached_mid]="3a7a3a"
+theme[cached_end]="7bbf6a"
+
+# Mem/Disk available meter - dégradé de bleu ciel (ciel tropical)
+theme[available_start]="0a1a2a"
+theme[available_mid]="1a4a7a"
+theme[available_end]="4da6ff"
+
+# Mem/Disk used meter - dégradé de vert palmier à jaune sable (palmier au coucher de soleil)
+theme[used_start]="3a7a3a"
+theme[used_mid]="7bbf6a"
+theme[used_end]="f5deb3"
+
+# Download graph colors - dégradé de bleu océan
+theme[download_start]="0a1a2a"
+theme[download_mid]="1a4a7a"
+theme[download_end]="4da6ff"
+
+# Upload graph colors - dégradé de vert océan (lagune tropicale)
+theme[upload_start]="0a2a1a"
+theme[upload_mid]="1a5a3a"
+theme[upload_end]="3a9a6a"
+
+# Process box color gradient - dégradé de sable à vert palmier
+theme[process_start]="4a3a1a"
+theme[process_mid]="7bbf6a"
+theme[process_end]="f5deb3"

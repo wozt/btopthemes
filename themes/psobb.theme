@@ -1,0 +1,85 @@
+# PSO Blue Burst Theme - Inspiré de l'interface de Phantasy Star Online
+
+# Main background - bleu turquoise très foncé
+theme[main_bg]="#002b36"
+
+# Main text color - turquoise électrique
+theme[main_fg]="#2ee8e8"
+
+# Title color for boxes - turquoise néon
+theme[title]="#00f5ff"
+
+# Highlight color for keyboard shortcuts - cyan électrique
+theme[hi_fg]="#00ffff"
+
+# Background color of selected item - turquoise foncé
+theme[selected_bg]="#005f73"
+
+# Foreground color of selected item - blanc pur
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text - turquoise moyen
+theme[inactive_fg]="#4ecdc4"
+
+# Color of text appearing on top of graphs - blanc pur
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters - turquoise foncé
+theme[meter_bg]="#003847"
+
+# Misc colors for processes box - turquoise électrique
+theme[proc_misc]="#00f5ff"
+
+# Box outline colors - dégradé de turquoises
+#theme[cpu_box]="#008080"    # Turquoise foncé
+#theme[mem_box]="#00b4b4"    # Turquoise moyen
+#theme[net_box]="#00d4d4"    # Turquoise clair
+#theme[proc_box]="#00ffff"   # Cyan vif
+
+# Box divider line - turquoise électrique avec transparence
+theme[div_line]="#00ffff80"
+
+# Temperature graph color - dégradé de turquoise froid à chaud
+theme[temp_start]="#007f8c"
+theme[temp_mid]="#00c8d7"
+theme[temp_end]="#00ffff"
+
+# CPU graph colors - dégradé de turquoise foncé à vif
+theme[cpu_start]="#003f4c"
+theme[cpu_mid]="#008f9c"
+theme[cpu_end]="#00e5ff"
+
+# Mem/Disk free meter - dégradé de turquoise profond à clair
+theme[free_start]="#005f6b"
+theme[free_mid]="#009faf"
+theme[free_end]="#00e5f5"
+
+# Mem/Disk cached meter - dégradé de turquoise à cyan électrique
+theme[cached_start]="#0097a7"
+theme[cached_mid]="#00bcd4"
+theme[cached_end]="#00ffff"
+
+# Mem/Disk available meter - dégradé de turquoise profond à vif
+theme[available_start]="#004f5b"
+theme[available_mid]="#00a3b2"
+theme[available_end]="#00e5ff"
+
+# Mem/Disk used meter - dégradé de turquoise profond à cyan électrique
+theme[used_start]="#004f5b"
+theme[used_mid]="#00b4c8"
+theme[used_end]="#00ffff"
+
+# Download graph colors - dégradé de turquoise profond à vif
+theme[download_start]="#005f6b"
+theme[download_mid]="#00a3b2"
+theme[download_end]="#00e5ff"
+
+# Upload graph colors - dégradé de turquoise à cyan électrique
+theme[upload_start]="#008c9e"
+theme[upload_mid]="#00bcd4"
+theme[upload_end]="#00ffff"
+
+# Process box color gradient - dégradé de turquoise profond à cyan électrique
+theme[process_start]="#004f5b"
+theme[process_mid]="#008c9e"
+theme[process_end]="#00e5ff"

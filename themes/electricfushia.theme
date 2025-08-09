@@ -1,0 +1,85 @@
+# Electric Fuchsia Theme - Nuances de fuchsia sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - fuchsia clair
+theme[main_fg]="#ff00ff"
+
+# Title color for boxes - fuchsia vif
+theme[title]="#ff00aa"
+
+# Highlight color for keyboard shortcuts - rose électrique
+theme[hi_fg]="#ff00cc"
+
+# Background color of selected item - fuchsia très foncé
+theme[selected_bg]="#4d004d"
+
+# Foreground color of selected item - rose pâle
+theme[selected_fg]="#ffccff"
+
+# Color of inactive/disabled text - fuchsia grisé
+theme[inactive_fg]="#993399"
+
+# Color of text appearing on top of graphs - blanc rosé
+theme[graph_text]="#ffccff"
+
+# Background color of the percentage meters - noir avec teinte fuchsia
+theme[meter_bg]="#1a001a"
+
+# Misc colors for processes box - fuchsia vif
+theme[proc_misc]="#ff00aa"
+
+# Box outline colors - dégradé de fuchsia
+#theme[cpu_box]="#990099"    # Fuchsia foncé
+#theme[mem_box]="#cc00aa"    # Fuchsia moyen
+#theme[net_box]="#ff00aa"    # Fuchsia vif
+#theme[proc_box]="#ff00ff"   # Rose fuchsia électrique
+
+# Box divider line - fuchsia avec transparence
+theme[div_line]="#ff00aa60"
+
+# Temperature graph color - dégradé de violet à fuchsia
+theme[temp_start]="#660066"
+theme[temp_mid]="#cc0099"
+theme[temp_end]="#ff00ff"
+
+# CPU graph colors - dégradé de fuchsia foncé à vif
+theme[cpu_start]="#4d004d"
+theme[cpu_mid]="#990099"
+theme[cpu_end]="#ff00aa"
+
+# Mem/Disk free meter - dégradé de fuchsia foncé à clair
+theme[free_start]="#330033"
+theme[free_mid]="#990099"
+theme[free_end]="#cc00aa"
+
+# Mem/Disk cached meter - dégradé de fuchsia à rose vif
+theme[cached_start]="#990099"
+theme[cached_mid]="#cc0099"
+theme[cached_end]="#ff00cc"
+
+# Mem/Disk available meter - dégradé de fuchsia foncé à vif
+theme[available_start]="#4d004d"
+theme[available_mid]="#990099"
+theme[available_end]="#ff00aa"
+
+# Mem/Disk used meter - dégradé de fuchsia à rose électrique
+theme[used_start]="#990099"
+theme[used_mid]="#cc0099"
+theme[used_end]="#ff00ff"
+
+# Download graph colors - dégradé de fuchsia foncé à vif
+theme[download_start]="#4d004d"
+theme[download_mid]="#990099"
+theme[download_end]="#ff00aa"
+
+# Upload graph colors - dégradé de fuchsia à rose électrique
+theme[upload_start]="#990099"
+theme[upload_mid]="#cc0099"
+theme[upload_end]="#ff00ff"
+
+# Process box color gradient - dégradé de fuchsia foncé à rose électrique
+theme[process_start]="#4d004d"
+theme[process_mid]="#990099"
+theme[process_end]="#ff00aa"

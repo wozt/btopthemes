@@ -1,0 +1,85 @@
+# PSO Blue Burst Theme - Inspiré de l'interface de Phantasy Star Online
+
+# Main background - bleu nuit profond
+theme[main_bg]="#0a1a2a"
+
+# Main text color - bleu clair électrique
+theme[main_fg]="#a0c8f0"
+
+# Title color for boxes - bleu cyan vif
+theme[title]="#00b4ff"
+
+# Highlight color for keyboard shortcuts - cyan électrique
+theme[hi_fg]="#00e5ff"
+
+# Background color of selected item - bleu foncé avec reflet
+theme[selected_bg]="#1a3a5a"
+
+# Foreground color of selected item - blanc bleuté
+theme[selected_fg]="#e0f0ff"
+
+# Color of inactive/disabled text - bleu grisâtre
+theme[inactive_fg]="#5a7a9a"
+
+# Color of text appearing on top of graphs - blanc bleuté
+theme[graph_text]="#e0f0ff"
+
+# Background color of the percentage meters - bleu nuit
+theme[meter_bg]="#0f2a3f"
+
+# Misc colors for processes box - cyan vif
+theme[proc_misc]="#00c0ff"
+
+# Box outline colors - dégradé de bleus
+#theme[cpu_box]="#005a9a"    # Bleu foncé
+#theme[mem_box]="#007acc"    # Bleu moyen
+#theme[net_box]="#0090e0"    # Bleu clair
+#theme[proc_box]="#00b4ff"   # Bleu cyan
+
+# Box divider line - bleu électrique avec transparence
+theme[div_line]="#00a0e050"
+
+# Temperature graph color - dégradé de bleu froid à chaud
+theme[temp_start]="#005a9a"
+theme[temp_mid]="#00a0e0"
+theme[temp_end]="#00e5ff"
+
+# CPU graph colors - dégradé de bleu nuit à cyan
+theme[cpu_start]="#0a1a2a"
+theme[cpu_mid]="#005a9a"
+theme[cpu_end]="#00a0e0"
+
+# Mem/Disk free meter - dégradé de bleu foncé à bleu clair
+theme[free_start]="#0a1a2a"
+theme[free_mid]="#005a9a"
+theme[free_end]="#0090e0"
+
+# Mem/Disk cached meter - dégradé de bleu à cyan
+theme[cached_start]="#005a9a"
+theme[cached_mid]="#0080c0"
+theme[cached_end]="#00c0ff"
+
+# Mem/Disk available meter - dégradé de bleu foncé à bleu électrique
+theme[available_start]="#0a1a2a"
+theme[available_mid]="#007acc"
+theme[available_end]="#00a0e0"
+
+# Mem/Disk used meter - dégradé de bleu nuit à cyan vif
+theme[used_start]="#0a1a2a"
+theme[used_mid]="#0090e0"
+theme[used_end]="#00e5ff"
+
+# Download graph colors - dégradé de bleu foncé à bleu clair
+theme[download_start]="#0a1a2a"
+theme[download_mid]="#007acc"
+theme[download_end]="#00a0e0"
+
+# Upload graph colors - dégradé de bleu à cyan
+theme[upload_start]="#005a9a"
+theme[upload_mid]="#00a0e0"
+theme[upload_end]="#00e5ff"
+
+# Process box color gradient - dégradé de bleu nuit à cyan
+theme[process_start]="#0a1a2a"
+theme[process_mid]="#005a9a"
+theme[process_end]="#00a0e0"

@@ -1,0 +1,85 @@
+# Fiery Sunset Theme - Orange, rouge et jaune sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - orange clair
+theme[main_fg]="#ff8c00"
+
+# Title color for boxes - rouge orangé
+theme[title]="#ff4500"
+
+# Highlight color for keyboard shortcuts - jaune vif
+theme[hi_fg]="#ffd700"
+
+# Background color of selected item - rouge foncé
+theme[selected_bg]="#8b0000"
+
+# Foreground color of selected item - jaune pâle
+theme[selected_fg]="#fffacd"
+
+# Color of inactive/disabled text - orange grisé
+theme[inactive_fg]="#8b5a2b"
+
+# Color of text appearing on top of graphs - jaune pâle
+theme[graph_text]="#fffacd"
+
+# Background color of the percentage meters - noir avec teinte rougeâtre
+theme[meter_bg]="#1a0a0a"
+
+# Misc colors for processes box - orange vif
+theme[proc_misc]="#ff8c00"
+
+# Box outline colors - dégradé de rouge à jaune
+#theme[cpu_box]="#8b0000"    # Rouge foncé
+#theme[mem_box]="#d2691e"    # Chocolat
+#theme[net_box]="#ff8c00"    # Orange foncé
+#theme[proc_box]="#ffd700"   # Or
+
+# Box divider line - orange avec transparence
+theme[div_line]="#ff8c0060"
+
+# Temperature graph color - dégradé de rouge à jaune
+theme[temp_start]="#8b0000"
+theme[temp_mid]="#ff4500"
+theme[temp_end]="#ffd700"
+
+# CPU graph colors - dégradé de rouge à orange
+theme[cpu_start]="#8b0000"
+theme[cpu_mid]="#d2691e"
+theme[cpu_end]="#ff8c00"
+
+# Mem/Disk free meter - dégradé de rouge foncé à orange
+theme[free_start]="#8b0000"
+theme[free_mid]="#b22222"
+theme[free_end]="#d2691e"
+
+# Mem/Disk cached meter - dégradé d'orange à jaune
+theme[cached_start]="#d2691e"
+theme[cached_mid]="#ff8c00"
+theme[cached_end]="#ffd700"
+
+# Mem/Disk available meter - dégradé de rouge foncé à orange vif
+theme[available_start]="#8b0000"
+theme[available_mid]="#d2691e"
+theme[available_end]="#ff8c00"
+
+# Mem/Disk used meter - dégradé d'orange à jaune vif
+theme[used_start]="#d2691e"
+theme[used_mid]="#ff8c00"
+theme[used_end]="#ffd700"
+
+# Download graph colors - dégradé de rouge à orange
+theme[download_start]="#8b0000"
+theme[download_mid]="#d2691e"
+theme[download_end]="#ff8c00"
+
+# Upload graph colors - dégradé d'orange à jaune
+theme[upload_start]="#d2691e"
+theme[upload_mid]="#ff8c00"
+theme[upload_end]="#ffd700"
+
+# Process box color gradient - dégradé de rouge à jaune
+theme[process_start]="#8b0000"
+theme[process_mid]="#ff4500"
+theme[process_end]="#ffd700"

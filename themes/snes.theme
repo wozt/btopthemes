@@ -1,0 +1,85 @@
+# SNES EU Classic Theme - Thème Super Nintendo Européenne sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - beige clair (couleur des boutons)
+theme[main_fg]="#e8d8b0"
+
+# Title color for boxes - violet SNES EU
+theme[title]="#7b5da8"
+
+# Highlight color for keyboard shortcuts - jaune-beige
+theme[hi_fg]="#e8c878"
+
+# Background color of selected item - violet foncé
+theme[selected_bg]="#4a3a6a"
+
+# Foreground color of selected item - beige clair
+theme[selected_fg]="#f0e8d8"
+
+# Color of inactive/disabled text - gris-violet
+theme[inactive_fg]="#8a7c9c"
+
+# Color of text appearing on top of graphs - blanc cassé
+theme[graph_text]="#f0e8d8"
+
+# Background color of the percentage meters - noir avec teinte violette
+theme[meter_bg]="#120e1a"
+
+# Misc colors for processes box - jaune-beige
+theme[proc_misc]="#e8c878"
+
+# Box outline colors - couleurs SNES EU
+#theme[cpu_box]="#5a4a7a"    # Violet foncé
+#theme[mem_box]="#7b5da8"    # Violet SNES
+#theme[net_box]="#9d8ac0"    # Violet clair
+#theme[proc_box]="#e8d8b0"   # Beige clair
+
+# Box divider line - violet SNES avec transparence
+theme[div_line]="#7b5da880"
+
+# Temperature graph color - dégradé de violet à beige
+theme[temp_start]="#4a3a6a"
+theme[temp_mid]="#7b5da8"
+theme[temp_end]="#e8c878"
+
+# CPU graph colors - dégradé de violet foncé à violet SNES
+theme[cpu_start]="#2a1f3a"
+theme[cpu_mid]="#4a3a6a"
+theme[cpu_end]="#7b5da8"
+
+# Mem/Disk free meter - dégradé de noir à violet foncé
+theme[free_start]="#0a080e"
+theme[free_mid]="#2a1f3a"
+theme[free_end]="#4a3a6a"
+
+# Mem/Disk cached meter - dégradé de violet à beige
+theme[cached_start]="#7b5da8"
+theme[cached_mid]="#9d8ac0"
+theme[cached_end]="#e8d8b0"
+
+# Mem/Disk available meter - dégradé de violet foncé à violet SNES
+theme[available_start]="#2a1f3a"
+theme[available_mid]="#4a3a6a"
+theme[available_end]="#7b5da8"
+
+# Mem/Disk used meter - dégradé de violet SNES à beige
+theme[used_start]="#7b5da8"
+theme[used_mid]="#9d8ac0"
+theme[used_end]="#e8d8b0"
+
+# Download graph colors - dégradé de violet très foncé à violet SNES
+theme[download_start]="#2a1f3a"
+theme[download_mid]="#4a3a6a"
+theme[download_end]="#7b5da8"
+
+# Upload graph colors - dégradé de violet SNES à beige
+theme[upload_start]="#7b5da8"
+theme[upload_mid]="#9d8ac0"
+theme[upload_end]="#e8d8b0"
+
+# Process box color gradient - dégradé de violet à beige
+theme[process_start]="#4a3a6a"
+theme[process_mid]="#7b5da8"
+theme[process_end]="#e8c878"

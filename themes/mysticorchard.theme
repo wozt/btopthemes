@@ -1,0 +1,85 @@
+# Mystic Orchard Theme - Violet, vert et orange sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - vert clair
+theme[main_fg]="#a7e38b"
+
+# Title color for boxes - violet clair
+theme[title]="#b388ff"
+
+# Highlight color for keyboard shortcuts - orange vif
+theme[hi_fg]="#ff9e4f"
+
+# Background color of selected item - violet foncé
+theme[selected_bg]="#4a1a7a"
+
+# Foreground color of selected item - blanc cassé
+theme[selected_fg]="#f0f0f0"
+
+# Color of inactive/disabled text - violet grisé
+theme[inactive_fg]="#6d5b8a"
+
+# Color of text appearing on top of graphs - blanc cassé
+theme[graph_text]="#f0f0f0"
+
+# Background color of the percentage meters - noir avec teinte violette
+theme[meter_bg]="#0a0610"
+
+# Misc colors for processes box - orange vif
+theme[proc_misc]="#ff9e4f"
+
+# Box outline colors - dégradé de violet à orange
+#theme[cpu_box]="#7e57c2"    # Violet moyen
+#theme[mem_box]="#66bb6a"    # Vert moyen
+#theme[net_box]="#b388ff"    # Violet clair
+#theme[proc_box]="#ff9e4f"   # Orange vif
+
+# Box divider line - vert avec transparence
+theme[div_line]="#a7e38b80"
+
+# Temperature graph color - dégradé de violet à orange
+theme[temp_start]="#7e57c2"
+theme[temp_mid]="#a7e38b"
+theme[temp_end]="#ff9e4f"
+
+# CPU graph colors - dégradé de violet à vert
+theme[cpu_start]="#4a1a7a"
+theme[cpu_mid]="#7e57c2"
+theme[cpu_end]="#a7e38b"
+
+# Mem/Disk free meter - dégradé de violet foncé à vert clair
+theme[free_start]="#2d0f4a"
+theme[free_mid]="#4a1a7a"
+theme[free_end]="#7e57c2"
+
+# Mem/Disk cached meter - dégradé de vert à orange
+theme[cached_start]="#66bb6a"
+theme[cached_mid]="#a7e38b"
+theme[cached_end]="#ff9e4f"
+
+# Mem/Disk available meter - dégradé de violet à vert
+theme[available_start]="#4a1a7a"
+theme[available_mid]="#7e57c2"
+theme[available_end]="#a7e38b"
+
+# Mem/Disk used meter - dégradé de vert à orange
+theme[used_start]="#66bb6a"
+theme[used_mid]="#a7e38b"
+theme[used_end]="#ff9e4f"
+
+# Download graph colors - dégradé de violet à vert
+theme[download_start]="#4a1a7a"
+theme[download_mid]="#7e57c2"
+theme[download_end]="#a7e38b"
+
+# Upload graph colors - dégradé de vert à orange
+theme[upload_start]="#66bb6a"
+theme[upload_mid]="#a7e38b"
+theme[upload_end]="#ff9e4f"
+
+# Process box color gradient - dégradé de violet à orange
+theme[process_start]="#7e57c2"
+theme[process_mid]="#a7e38b"
+theme[process_end]="#ff9e4f"

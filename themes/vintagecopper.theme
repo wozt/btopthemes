@@ -1,0 +1,88 @@
+# Vintage Copper Theme - Marron cuivré avec notes de rouge
+
+# Main background - marron clair chaud
+#theme[main_bg]="#f5eee6"  # Décommenter pour un fond clair
+#theme[main_bg]="#2c1a0d"  # Décommenter pour un fond foncé
+
+# Main text color - marron clair pour un bon contraste sur fond foncé
+theme[main_fg]="#e6d5c3"
+
+# Title color for boxes - cuivre doré clair
+theme[title]="#d4a76a"
+
+# Highlight color for keyboard shortcuts - orange cuivré clair
+theme[hi_fg]="#e6c8a0"
+
+# Background color of selected item - marron moyen
+#theme[selected_bg]="#8b5a2b"  # Décommenter pour un contraste moyen
+#theme[selected_bg]="#a67c52"  # Décommenter pour un contraste plus clair
+
+# Foreground color of selected item - marron très clair
+theme[selected_fg]="#f5eee6"
+
+# Color of inactive/disabled text - marron clair
+#theme[inactive_fg]="#d4b78f"  # Décommenter pour un contraste moyen
+#theme[inactive_fg]="#e6d5c3"  # Décommenter pour un contraste plus fort
+
+# Color of text appearing on top of graphs - marron très clair
+theme[graph_text]="#f5eee6"
+
+# Background color of the percentage meters - marron très clair
+theme[meter_bg]="#e6d5c3"
+
+# Misc colors for processes box - cuivre
+theme[proc_misc]="#b35900"
+
+# CPU, Memory, Network, Proc box outline colors - dégradé de marrons à cuivrés
+theme[cpu_box]="#a67c52"
+theme[mem_box]="#b35900"
+theme[net_box]="#8b3e2f"
+theme[proc_box]="#a65c2e"
+
+# Box divider line - marron clair
+theme[div_line]="#d4b78f"
+
+# Temperature graph color - dégradé de marron clair à cuivre
+theme[temp_start]="#f5eee6"
+theme[temp_mid]="#d4a76a"
+theme[temp_end]="#b35900"
+
+# CPU graph colors - dégradé de marron clair à foncé avec touche de rouge
+theme[cpu_start]="#f5eee6"
+theme[cpu_mid]="#d4a76a"
+theme[cpu_end]="#8b3e2f"
+
+# Mem/Disk free meter - dégradé de marron clair à moyen
+theme[free_start]="#f5eee6"
+theme[free_mid]="#d4a76a"
+theme[free_end]="#a67c52"
+
+# Mem/Disk cached meter - dégradé de marron clair à cuivre
+theme[cached_start]="#f5eee6"
+theme[cached_mid]="#d4a76a"
+theme[cached_end]="#b35900"
+
+# Mem/Disk available meter - dégradé de marron clair à foncé
+theme[available_start]="#f5eee6"
+theme[available_mid]="#d4a76a"
+theme[available_end]="#8b3e2f"
+
+# Mem/Disk used meter - dégradé de marron clair à cuivre vif
+theme[used_start]="#f5eee6"
+theme[used_mid]="#d4a76a"
+theme[used_end]="#b35900"
+
+# Download graph colors - dégradé de marron clair à foncé
+theme[download_start]="#f5eee6"
+theme[download_mid]="#d4a76a"
+theme[download_end]="#8b3e2f"
+
+# Upload graph colors - dégradé de marron clair à cuivre
+theme[upload_start]="#f5eee6"
+theme[upload_mid]="#d4a76a"
+theme[upload_end]="#b35900"
+
+# Process box color gradient - dégradé de marron foncé à cuivre clair
+theme[process_start]="#4d2c1a"
+theme[process_mid]="#8b3e2f"
+theme[process_end]="#d4a76a"

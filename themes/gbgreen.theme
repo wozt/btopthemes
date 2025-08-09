@@ -1,0 +1,85 @@
+# Game Boy Classic Theme - L'écran vert rétro de la Game Boy originale
+
+# Main background - vert clair caractéristique de l'écran Game Boy
+theme[main_bg]="#9bbc0f"
+
+# Main text color - gris-vert le plus foncé (niveau 4)
+theme[main_fg]="#0f380f"
+
+# Title color for boxes - gris-vert foncé (niveau 3)
+theme[title]="#306230"
+
+# Highlight color for keyboard shortcuts - gris-vert moyen (niveau 2)
+theme[hi_fg]="#8bac0f"
+
+# Background color of selected item - gris-vert clair (niveau 1)
+theme[selected_bg]="c4d0a4"
+
+# Foreground color of selected item - vert clair
+theme[selected_fg]="#9bbc0f"
+
+# Color of inactive/disabled text - gris-vert clair (niveau 1)
+theme[inactive_fg]="8bac0f"
+
+# Color of text appearing on top of graphs - gris-vert foncé (niveau 4)
+theme[graph_text]="#0f380f"
+
+# Background color of the percentage meters - vert clair légèrement plus foncé
+theme[meter_bg]="8bac0f"
+
+# Misc colors for processes box - gris-vert moyen (niveau 2)
+theme[proc_misc]="4a6a20"
+
+# Box outline colors - 4 niveaux de gris-vert
+#theme[cpu_box]="0f380f"    # Niveau 4 - le plus foncé
+#theme[mem_box]="306230"    # Niveau 3 - foncé
+#theme[net_box]="4a6a20"    # Niveau 2 - moyen
+#theme[proc_box]="8bac0f"   # Niveau 1 - clair
+
+# Box divider line - gris-vert moyen avec transparence
+theme[div_line]="4a6a2080"
+
+# Temperature graph color - dégradé de gris-vert (foncé à clair)
+theme[temp_start]="0f380f"
+theme[temp_mid]="306230"
+theme[temp_end]="4a6a20"
+
+# CPU graph colors - dégradé de gris-vert (foncé à clair)
+theme[cpu_start]="0f380f"
+theme[cpu_mid]="306230"
+theme[cpu_end]="4a6a20"
+
+# Mem/Disk free meter - dégradé de gris-vert clair
+theme[free_start]="8bac0f"
+theme[free_mid]="a0b86c"
+theme[free_end]="c4d0a4"
+
+# Mem/Disk cached meter - dégradé de gris-vert moyen
+theme[cached_start]="4a6a20"
+theme[cached_mid]="5a7a30"
+theme[cached_end]="8bac0f"
+
+# Mem/Disk available meter - dégradé de gris-vert
+theme[available_start]="306230"
+theme[available_mid]="4a6a20"
+theme[available_end]="8bac0f"
+
+# Mem/Disk used meter - dégradé de gris-vert (foncé à clair)
+theme[used_start]="0f380f"
+theme[used_mid]="306230"
+theme[used_end]="4a6a20"
+
+# Download graph colors - dégradé de gris-vert (foncé à clair)
+theme[download_start]="0f380f"
+theme[download_mid]="306230"
+theme[download_end]="4a6a20"
+
+# Upload graph colors - dégradé de gris-vert (moyen à clair)
+theme[upload_start]="4a6a20"
+theme[upload_mid]="5a7a30"
+theme[upload_end]="8bac0f"
+
+# Process box color gradient - dégradé de gris-vert (foncé à clair)
+theme[process_start]="0f380f"
+theme[process_mid]="306230"
+theme[process_end]="4a6a20"

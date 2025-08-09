@@ -1,0 +1,85 @@
+# Pokémon Black & White Theme - Noir, blanc, rouge et bleu
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - blanc pur
+theme[main_fg]="#ffffff"
+
+# Title color for boxes - gris clair
+theme[title]="#e0e0e0"
+
+# Highlight color for keyboard shortcuts - rouge vif
+theme[hi_fg]="#ff1a1a"
+
+# Background color of selected item - gris foncé
+theme[selected_bg]="404040"
+
+# Foreground color of selected item - blanc éclatant
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text - gris moyen
+theme[inactive_fg]="#888888"
+
+# Color of text appearing on top of graphs - blanc éclatant
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters - noir avec teinte grise
+theme[meter_bg]="#0a0a0a"
+
+# Misc colors for processes box - gris clair
+theme[proc_misc]="#e0e0e0"
+
+# Box outline colors - thème Pokémon BW
+#theme[cpu_box]="#404040"    # Gris foncé
+#theme[mem_box]="#1a1aff"    # Bleu vif
+#theme[net_box]="#ff1a1a"    # Rouge vif
+#theme[proc_box]="#e0e0e0"   # Gris clair
+
+# Box divider line - gris avec transparence
+theme[div_line]="#80808080"
+
+# Temperature graph color - dégradé de bleu à gris
+theme[temp_start]="#1a1aff"
+theme[temp_mid]="#7d7dff"
+theme[temp_end]="#b3b3b3"
+
+# CPU graph colors - dégradé de bleu à gris
+theme[cpu_start]="#1a1aff"
+theme[cpu_mid]="#7d7dff"
+theme[cpu_end]="#b3b3b3"
+
+# Mem/Disk free meter - dégradé de gris clair à gris foncé
+theme[free_start]="#e0e0e0"
+theme[free_mid]="#a0a0a0"
+theme[free_end]="#606060"
+
+# Mem/Disk cached meter - dégradé de bleu à gris
+theme[cached_start]="#1a1aff"
+theme[cached_mid]="#7d7dff"
+theme[cached_end]="#b3b3b3"
+
+# Mem/Disk available meter - dégradé de gris à bleu
+theme[available_start]="#b3b3b3"
+theme[available_mid]="#7d7dff"
+theme[available_end]="#1a1aff"
+
+# Mem/Disk used meter - dégradé de rouge à gris
+theme[used_start]="#ff1a1a"
+theme[used_mid]="#ff7d7d"
+theme[used_end]="#b3b3b3"
+
+# Download graph colors - dégradé de bleu à gris (positif)
+theme[download_start]="#1a1aff"
+theme[download_mid]="#7d7dff"
+theme[download_end]="#b3b3b3"
+
+# Upload graph colors - dégradé de rouge à gris (négatif)
+theme[upload_start]="#ff1a1a"
+theme[upload_mid]="#ff7d7d"
+theme[upload_end]="#b3b3b3"
+
+# Process box color gradient - dégradé de gris clair à gris foncé
+theme[process_start]="#e0e0e0"
+theme[process_mid]="#a0a0a0"
+theme[process_end]="#606060"

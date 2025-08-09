@@ -1,0 +1,85 @@
+# GameCube Legacy Theme - Thème violet GameCube sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - gris clair
+theme[main_fg]="#c0c0c0"
+
+# Title color for boxes - violet GameCube
+theme[title]="#5a4d8c"
+
+# Highlight color for keyboard shortcuts - violet clair
+theme[hi_fg]="#8a7bbf"
+
+# Background color of selected item - violet foncé
+theme[selected_bg]="#2d2541"
+
+# Foreground color of selected item - blanc cassé
+theme[selected_fg]="#e0e0e0"
+
+# Color of inactive/disabled text - gris-bleuté
+theme[inactive_fg]="#6d6d8a"
+
+# Color of text appearing on top of graphs - blanc cassé
+theme[graph_text]="#e0e0e0"
+
+# Background color of the percentage meters - noir avec teinte violette
+theme[meter_bg]="#0a0810"
+
+# Misc colors for processes box - violet GameCube
+theme[proc_misc]="#5a4d8c"
+
+# Box outline colors - couleurs GameCube
+#theme[cpu_box]="#3a2e5c"    # Violet foncé
+#theme[mem_box]="#5a4d8c"    # Violet GameCube
+#theme[net_box]="#8a7bbf"    # Violet clair
+#theme[proc_box]="#b0a8c0"   # Gris-violet
+
+# Box divider line - violet GameCube avec transparence
+theme[div_line]="#5a4d8c80"
+
+# Temperature graph color - dégradé de violet foncé à clair
+theme[temp_start]="#2d2541"
+theme[temp_mid]="#5a4d8c"
+theme[temp_end]="#8a7bbf"
+
+# CPU graph colors - dégradé de violet très foncé à violet GameCube
+theme[cpu_start]="#0a0810"
+theme[cpu_mid]="#2d2541"
+theme[cpu_end]="#5a4d8c"
+
+# Mem/Disk free meter - dégradé de noir à violet foncé
+theme[free_start]="#050408"
+theme[free_mid]="#0a0810"
+theme[free_end]="#2d2541"
+
+# Mem/Disk cached meter - dégradé de violet GameCube à violet clair
+theme[cached_start]="#5a4d8c"
+theme[cached_mid]="#8a7bbf"
+theme[cached_end]="#b0a8c0"
+
+# Mem/Disk available meter - dégradé de violet foncé à GameCube
+theme[available_start]="#0a0810"
+theme[available_mid]="#2d2541"
+theme[available_end]="#5a4d8c"
+
+# Mem/Disk used meter - dégradé de violet GameCube à clair
+theme[used_start]="#5a4d8c"
+theme[used_mid]="#8a7bbf"
+theme[used_end]="#b0a8c0"
+
+# Download graph colors - dégradé de violet très foncé à GameCube
+theme[download_start]="#0a0810"
+theme[download_mid]="#2d2541"
+theme[download_end]="#5a4d8c"
+
+# Upload graph colors - dégradé de violet GameCube à clair
+theme[upload_start]="#5a4d8c"
+theme[upload_mid]="#8a7bbf"
+theme[upload_end]="#b0a8c0"
+
+# Process box color gradient - dégradé de violet foncé à clair
+theme[process_start]="#2d2541"
+theme[process_mid]="#5a4d8c"
+theme[process_end]="#8a7bbf"

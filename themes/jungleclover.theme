@@ -1,0 +1,85 @@
+# Jungle Clover Theme - Un mélange audacieux de rose et vert olive
+
+# Main background - vert forêt très profond
+theme[main_bg]="#051505"
+
+# Main text color - vert clair doux
+theme[main_fg]="#b8e6b8"
+
+# Title color for boxes - vert olive clair
+theme[title]="#8fbc8f"
+
+# Highlight color for keyboard shortcuts - rose vif
+theme[hi_fg]="#ff69b4"
+
+# Background color of selected item - vert olive foncé
+theme[selected_bg]="556b2f"
+
+# Foreground color of selected item - blanc cassé
+theme[selected_fg]="#f0f0e0"
+
+# Color of inactive/disabled text - vert olive
+theme[inactive_fg]="#6b8e23"
+
+# Color of text appearing on top of graphs - noir profond
+theme[graph_text]="#0a1a0a"
+
+# Background color of the percentage meters - vert forêt foncé
+theme[meter_bg]="#0a1a0a"
+
+# Misc colors for processes box - rose pâle
+theme[proc_misc]="#ffb6c1"
+
+# Box outline colors - vert olive
+#theme[cpu_box]="#6b8e23"    # Vert olive
+#theme[mem_box]="#8fbc8f"    # Vert olive clair
+#theme[net_box]="#ff69b4"    # Rose vif
+#theme[proc_box]="#dda0dd"   # Prune
+
+# Box divider line - rose avec transparence
+theme[div_line]="#ff69b480"
+
+# Temperature graph color - dégradé rose à vert olive
+theme[temp_start]="#ff69b4"
+theme[temp_mid]="#c71585"
+theme[temp_end]="#6b8e23"
+
+# CPU graph colors - dégradé rose à vert olive
+theme[cpu_start]="#ff69b4"
+theme[cpu_mid]="#db7093"
+theme[cpu_end]="#8fbc8f"
+
+# Mem/Disk free meter - dégradé de fuchsia foncé
+theme[free_start]="#4b0082"
+theme[free_mid]="#8b008b"
+theme[free_end]="#c71585"
+
+# Mem/Disk cached meter - dégradé de rose à vert olive
+theme[cached_start]="#ff69b4"
+theme[cached_mid]="#db7093"
+theme[cached_end]="#8fbc8f"
+
+# Mem/Disk available meter - dégradé de fuchsia vif
+theme[available_start]="#8b008b"
+theme[available_mid]="#c71585"
+theme[available_end]="#ff1493"
+
+# Mem/Disk used meter - dégradé de rose à vert olive
+theme[used_start]="#ff69b4"
+theme[used_mid]="#c71585"
+theme[used_end]="#6b8e23"
+
+# Download graph colors - dégradé de rose
+theme[download_start]="#ff69b4"
+theme[download_mid]="#db7093"
+theme[download_end]="#c71585"
+
+# Upload graph colors - dégradé de fuchsia pétant
+theme[upload_start]="#8b008b"
+theme[upload_mid]="#c71585"
+theme[upload_end]="#ff1493"
+
+# Process box color gradient - dégradé rose à vert olive
+theme[process_start]="#ff69b4"
+theme[process_mid]="#db7093"
+theme[process_end]="#8fbc8f"

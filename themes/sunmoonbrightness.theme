@@ -1,0 +1,85 @@
+# Pokemon Sun & Moon Brightness Theme - Couleurs chaudes d'Alola sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - jaune doré (Soleil)
+theme[main_fg]="#ffcc00"
+
+# Title color for boxes - orange vif (Lunala)
+theme[title]="#ff8c00"
+
+# Highlight color for keyboard shortcuts - bleu électrique (Solgaleo)
+theme[hi_fg]="#00a0e9"
+
+# Background color of selected item - bleu nuit (ciel d'Alola)
+theme[selected_bg]="1a3a5a"
+
+# Foreground color of selected item - blanc éclatant
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text - jaune doré atténué
+theme[inactive_fg]="#b38f00"
+
+# Color of text appearing on top of graphs - noir profond
+theme[graph_text]="#000000"
+
+# Background color of the percentage meters - noir avec teinte dorée
+theme[meter_bg]="#1a1400"
+
+# Misc colors for processes box - orange vif
+theme[proc_misc]="#ff8c00"
+
+# Box outline colors - thème Soleil et Lune
+#theme[cpu_box]="#ff8c00"    # Orange (Soleil)
+#theme[mem_box]="#00a0e9"    # Bleu (Lune)
+#theme[net_box]="#ffcc00"    # Jaune (Soleil)
+#theme[proc_box]="#a0d8ff"   # Bleu clair (Lune clair)
+
+# Box divider line - jaune doré avec transparence
+theme[div_line]="#ffcc0080"
+
+# Temperature graph color - dégradé de gris (thermomètre)
+theme[temp_start]="#a0a0a0"
+theme[temp_mid]="#707070"
+theme[temp_end]="#404040"
+
+# CPU graph colors - dégradé de bleu clair à bleu électrique (Lune)
+theme[cpu_start]="#a0d8ff"
+theme[cpu_mid]="#50b0ff"
+theme[cpu_end]="#00a0e9"
+
+# Mem/Disk free meter - dégradé de noir à bleu nuit (ciel nocturne)
+theme[free_start]="#050a14"
+theme[free_mid]="#0a1e32"
+theme[free_end]="#1a3a5a"
+
+# Mem/Disk cached meter - dégradé de bleu clair à bleu électrique (Lunala)
+theme[cached_start]="#a0d8ff"
+theme[cached_mid]="#50b0ff"
+theme[cached_end]="#00a0e9"
+
+# Mem/Disk available meter - dégradé de bleu nuit à bleu clair (nuit étoilée)
+theme[available_start]="#1a3a5a"
+theme[available_mid]="#2a5a8a"
+theme[available_end]="#5a9ad8"
+
+# Mem/Disk used meter - dégradé d'orange à jaune (lever/coucher de soleil)
+theme[used_start]="#ff6b00"
+theme[used_mid]="#ff8c00"
+theme[used_end]="#ffcc00"
+
+# Download graph colors - dégradé de jaune à orange (rayons du soleil)
+theme[download_start]="#ffcc00"
+theme[download_mid]="#ffa500"
+theme[download_end]="#ff6b00"
+
+# Upload graph colors - dégradé de bleu clair à bleu électrique (rayons de lune)
+theme[upload_start]="#a0d8ff"
+theme[upload_mid]="#50b0ff"
+theme[upload_end]="#00a0e9"
+
+# Process box color gradient - dégradé de bleu clair à bleu électrique (comme la RAM)
+theme[process_start]="#a0d8ff"
+theme[process_mid]="#50b0ff"
+theme[process_end]="#00a0e9"

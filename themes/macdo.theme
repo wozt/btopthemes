@@ -1,0 +1,85 @@
+# McDonald's Night Theme - Jaune et rouge sur fond noir
+
+# Main background - noir profond
+theme[main_bg]="#000000"
+
+# Main text color - jaune clair
+theme[main_fg]="#ffc72c"
+
+# Title color for boxes - rouge McDonald's
+theme[title]="#da291c"
+
+# Highlight color for keyboard shortcuts - jaune vif
+theme[hi_fg]="#ffd700"
+
+# Background color of selected item - rouge foncé
+theme[selected_bg]="#9e1b15"
+
+# Foreground color of selected item - blanc éclatant
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text - jaune grisé
+theme[inactive_fg]="#b3a36c"
+
+# Color of text appearing on top of graphs - blanc éclatant
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters - noir avec teinte rougeâtre
+theme[meter_bg]="#1a0a0a"
+
+# Misc colors for processes box - jaune vif
+theme[proc_misc]="#ffc72c"
+
+# Box outline colors - couleurs McDonald's
+#theme[cpu_box]="#da291c"    # Rouge McDonald's
+#theme[mem_box]="#ffc72c"    # Jaune McDonald's
+#theme[net_box]="#ff5733"    # Orange-rouge
+#theme[proc_box]="#ffd700"   # Or
+
+# Box divider line - jaune avec transparence
+theme[div_line]="#ffc72c80"
+
+# Temperature graph color - dégradé de rouge à jaune
+theme[temp_start]="#9e1b15"
+theme[temp_mid]="#da291c"
+theme[temp_end]="#ffc72c"
+
+# CPU graph colors - dégradé de rouge foncé à rouge vif
+theme[cpu_start]="#4a0a06"
+theme[cpu_mid]="#9e1b15"
+theme[cpu_end]="#da291c"
+
+# Mem/Disk free meter - dégradé de rouge très foncé à rouge
+theme[free_start]="#1a0a0a"
+theme[free_mid]="#4a0a06"
+theme[free_end]="#9e1b15"
+
+# Mem/Disk cached meter - dégradé de jaune à jaune vif
+theme[cached_start]="#ffc72c"
+theme[cached_mid]="#ffd700"
+theme[cached_end]="#ffea00"
+
+# Mem/Disk available meter - dégradé de rouge à jaune
+theme[available_start]="#9e1b15"
+theme[available_mid]="#da291c"
+theme[available_end]="#ffc72c"
+
+# Mem/Disk used meter - dégradé de rouge à jaune vif
+theme[used_start]="#da291c"
+theme[used_mid]="#ff5733"
+theme[used_end]="#ffc72c"
+
+# Download graph colors - dégradé de rouge foncé à rouge vif
+theme[download_start]="#4a0a06"
+theme[download_mid]="#9e1b15"
+theme[download_end]="#da291c"
+
+# Upload graph colors - dégradé de jaune à jaune vif
+theme[upload_start]="#ffc72c"
+theme[upload_mid]="#ffd700"
+theme[upload_end]="#ffea00"
+
+# Process box color gradient - dégradé de rouge à jaune
+theme[process_start]="#9e1b15"
+theme[process_mid]="#da291c"
+theme[process_end]="#ffc72c"

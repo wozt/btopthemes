@@ -1,0 +1,85 @@
+# Midnight Orchard Theme - L'inversion sombre et profonde de Apple Fresh
+
+# Main background - violet foncé (inverse du vert clair)
+theme[main_bg]="#0f0819"
+
+# Main text color - vert pâle (inverse du vert foncé)
+theme[main_fg]="#d2a5d8"
+
+# Title color for boxes - rose vif (inverse du vert pomme)
+theme[title]="#834cbd"
+
+# Highlight color for keyboard shortcuts - rose plus clair (inverse du vert foncé)
+theme[hi_fg]="aa74d0"
+
+# Background color of selected item - violet profond (inverse du vert pâle)
+theme[selected_bg]="231238"
+
+# Foreground color of selected item - rose pâle (inverse du vert foncé)
+theme[selected_fg]="#d2a5d8"
+
+# Color of inactive/disabled text - violet grisé (inverse du vert grisé)
+theme[inactive_fg]="5a2945"
+
+# Color of text appearing on top of graphs - rose pâle (inverse du vert foncé)
+theme[graph_text]="#d2a5d8"
+
+# Background color of the percentage meters - violet très foncé (inverse du vert clair)
+theme[meter_bg]="170a1f"
+
+# Misc colors for processes box - rose (inverse du vert pomme)
+theme[proc_misc]="7e3887"
+
+# Box outline colors - inversés
+#theme[cpu_box]="512a7e"    # Violet (inverse du vert clair)
+#theme[mem_box]="633399"    # Violet plus vif (inverse du vert moyen)
+#theme[net_box]="834cbd"    # Rose-violet (inverse du vert pomme)
+#theme[proc_box]="743cb3"   # Violet-rose (inverse du vert pomme clair)
+
+# Box divider line - rose pâle avec transparence (inverse du vert pâle)
+theme[div_line]="d2a5d880"
+
+# Temperature graph color - dégradé violet à rose (inversé)
+theme[temp_start]="0e0716"
+theme[temp_mid]="3a1e5a"
+theme[temp_end]="743cb3"
+
+# CPU graph colors - dégradé de violet (inversé)
+theme[cpu_start]="170a1f"
+theme[cpu_mid]="5a2945"
+theme[cpu_end]="994499"
+
+# Mem/Disk free meter - dégradé de violet foncé (inversé du vert clair)
+theme[free_start]="0e0716"
+theme[free_mid]="231238"
+theme[free_end]="3a1e5a"
+
+# Mem/Disk cached meter - dégradé de violet (inversé)
+theme[cached_start]="170a1f"
+theme[cached_mid]="5a2945"
+theme[cached_end]="7e3887"
+
+# Mem/Disk available meter - dégradé de violet (inversé)
+theme[available_start]="170a1f"
+theme[available_mid]="5a2945"
+theme[available_end]="994499"
+
+# Mem/Disk used meter - dégradé de violet à rose (inversé)
+theme[used_start]="0e0716"
+theme[used_mid]="3a1e5a"
+theme[used_end]="743cb3"
+
+# Download graph colors - dégradé de violet (inversé)
+theme[download_start]="170a1f"
+theme[download_mid]="5a2945"
+theme[download_end]="994499"
+
+# Upload graph colors - dégradé de violet plus soutenu (inversé)
+theme[upload_start]="0e0716"
+theme[upload_mid]="3a1e5a"
+theme[upload_end]="834cbd"
+
+# Process box color gradient - dégradé de violet (inversé)
+theme[process_start]="0e0716"
+theme[process_mid]="3a1e5a"
+theme[process_end]="743cb3"
