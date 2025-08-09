@@ -4,7 +4,7 @@ Btop themes created by windsurf AI
 # Installation
 Install these themes located in themes in this github by copying the files you want to your btop themes directory (e.g., `/home/<user>/.config/btop/themes/` on Ubuntu).
 
-# Theme Screenshots
+# Themes Screenshots
 
 ---
 
