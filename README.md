@@ -2,7 +2,7 @@
 Btop themes created with windsurf AI
 
 # Installation
-The themes are located in the /themes/ directory of this GitHub repository. Copy the ones you want to your btop themes directory (e.g., /home/\<user\>/.config/btop/themes/ on Ubuntu).
+Themes are located in the /themes/ directory of this GitHub repository. Copy the ones you want to your btop themes directory (e.g., /home/\<user\>/.config/btop/themes/ on Ubuntu).
 
 To change the theme in btop, open the btop menu by pressing m (or the key shown for the menu), then navigate to the Theme section. From there, select the theme you want to use. The changes will apply immediately.
 
